@@ -1,0 +1,2038 @@
+200:<!DOCTYPE html>
+<html class="govuk-template app-no-canvas-background" lang="sk-SK">
+ <head>
+  <script>
+   (function (w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start':
+                    new Date().getTime(), event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src =
+                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-PQWLJHB');
+  </script>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1, viewport-fit=cover" name="viewport"/>
+  <meta content="#0b0c0c" name="theme-color"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <title>
+   Smart karanténa – domáca izolácia ako alternatíva štátnej karantény - Koronavírus a Slovensko
+  </title>
+  <meta content="max-snippet:-1, max-image-preview:large, max-video-preview:-1" name="robots"/>
+  <meta content="sk_SK" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Smart karanténa – domáca izolácia ako alternatíva štátnej karantény - Koronavírus a Slovensko" property="og:title"/>
+  <meta content="Aktualizované 29. mája 2020 9:40 | Ako postupovať? DOMÁCA KARANTÉNA SPUSTENÁ ! Pre Android a aj pre iOS pre tieto hraničné prechody: Rakúsko Česká republika Maďarsko Poľsko Ukrajina Možnosť domácej izolácie je už otvorená pre Android a rovnako aj pre iOS, aplikácia je schválená spoločnosťou Google a Apple . Zároveň sa na Vás vzťahujú všetky podmienky …" property="og:description"/>
+  <meta content="https://korona.gov.sk/ekarantena/" property="og:url"/>
+  <meta content="Koronavírus a Slovensko" property="og:site_name"/>
+  <meta content="https://korona.gov.sk/wp-content/uploads/2020/04/googleplay.png" property="og:image"/>
+  <meta content="https://korona.gov.sk/wp-content/uploads/2020/04/googleplay.png" property="og:image:secure_url"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Aktualizované 29. mája 2020 9:40 | Ako postupovať? DOMÁCA KARANTÉNA SPUSTENÁ ! Pre Android a aj pre iOS pre tieto hraničné prechody: Rakúsko Česká republika Maďarsko Poľsko Ukrajina Možnosť domácej izolácie je už otvorená pre Android a rovnako aj pre iOS, aplikácia je schválená spoločnosťou Google a Apple . Zároveň sa na Vás vzťahujú všetky podmienky […]" name="twitter:description"/>
+  <meta content="Smart karanténa – domáca izolácia ako alternatíva štátnej karantény - Koronavírus a Slovensko" name="twitter:title"/>
+  <meta content="https://korona.gov.sk/wp-content/uploads/2020/04/googleplay.png" name="twitter:image"/>
+  <script class="yoast-schema-graph yoast-schema-graph--main" type="application/ld+json">
+   {"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://korona.gov.sk/#website","url":"https://korona.gov.sk/","name":"Koronav\u00edrus a Slovensko","inLanguage":"sk-SK","potentialAction":[{"@type":"SearchAction","target":"https://korona.gov.sk/?s={search_term_string}","query-input":"required name=search_term_string"}]},{"@type":"ImageObject","@id":"https://korona.gov.sk/ekarantena/#primaryimage","inLanguage":"sk-SK","url":"https://korona.gov.sk/wp-content/uploads/2020/04/googleplay.png","width":204,"height":72,"caption":"android-app-zozstanzdravy"},{"@type":"WebPage","@id":"https://korona.gov.sk/ekarantena/#webpage","url":"https://korona.gov.sk/ekarantena/","name":"Smart karant\u00e9na \u2013 dom\u00e1ca izol\u00e1cia ako alternat\u00edva \u0161t\u00e1tnej karant\u00e9ny - Koronav\u00edrus a Slovensko","isPartOf":{"@id":"https://korona.gov.sk/#website"},"inLanguage":"sk-SK","primaryImageOfPage":{"@id":"https://korona.gov.sk/ekarantena/#primaryimage"},"datePublished":"2020-05-17T12:54:52+00:00","dateModified":"2020-05-29T20:53:57+00:00","breadcrumb":{"@id":"https://korona.gov.sk/ekarantena/#breadcrumb"},"potentialAction":[{"@type":"ReadAction","target":["https://korona.gov.sk/ekarantena/"]}]},{"@type":"BreadcrumbList","@id":"https://korona.gov.sk/ekarantena/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"item":{"@type":"WebPage","@id":"https://korona.gov.sk/","url":"https://korona.gov.sk/","name":"Domov"}},{"@type":"ListItem","position":2,"item":{"@type":"WebPage","@id":"https://korona.gov.sk/ekarantena/","url":"https://korona.gov.sk/ekarantena/","name":"Smart karant\u00e9na \u2013 dom\u00e1ca izol\u00e1cia ako alternat\u00edva \u0161t\u00e1tnej karant\u00e9ny"}}]}]}
+  </script>
+  <link href="//s.w.org" rel="dns-prefetch"/>
+  <link href="https://korona.gov.sk/wp-includes/css/dist/block-library/style.min.css" id="wp-block-library-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://korona.gov.sk/wp-content/plugins/koronablock/dist/blocks.style.build.css" id="koronablock-cgb-style-css-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://korona.gov.sk/wp-content/plugins/sitepress-multilingual-cms/templates/language-switchers/menu-item/style.css" id="wpml-menu-item-0-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://korona.gov.sk/wp-content/themes/korona/style.css" id="korona-style-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://korona.gov.sk/wp-content/themes/korona/assets/css/leaflet.css" id="korona-leaflet-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://korona.gov.sk/wp-content/themes/korona/assets/css/govuk-finder.css" id="govuk-finder-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://korona.gov.sk/wp-content/themes/korona/assets/css/search-form.css" id="search-form-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://korona.gov.sk/wp-content/themes/korona/assets/fonts/fonts.css" id="id-sk-fonts-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://korona.gov.sk/wp-content/uploads/2020/04/apple-touch-icon-180x180-1.png" rel="icon" sizes="32x32"/>
+  <link href="https://korona.gov.sk/wp-content/uploads/2020/04/apple-touch-icon-180x180-1.png" rel="icon" sizes="192x192"/>
+  <link href="https://korona.gov.sk/wp-content/uploads/2020/04/apple-touch-icon-180x180-1.png" rel="apple-touch-icon"/>
+  <meta content="https://korona.gov.sk/wp-content/uploads/2020/04/apple-touch-icon-180x180-1.png" name="msapplication-TileImage"/>
+  <style id="wp-custom-css" type="text/css">
+   .language-picker__button[aria-expanded="false"] + .language-picker__dropdown ul {
+	display: none;
+}
+.language-picker__button[aria-expanded="true"] + .language-picker__dropdown ul {
+	display: block;
+}
+
+.govuk-list--alpha li {
+	list-style-type: lower-alpha;
+}
+
+ol ol,
+ul ol,
+ol ul {
+	margin-left: 30px
+}
+
+.app-pane-red {
+	background-color: #df3034
+}
+.app-pane-red p {
+	color: #fff;
+}
+.app-pane-red a {
+	color: #fff;
+}
+.app-pane-red a:visited {
+	color: #f3f3f3;
+}
+.app-pane-red a:hover {
+	color: #f1f1f1;
+}
+.app-pane-yellow {
+	background-color: #ffbf47;
+}
+
+@media (max-width: 40.0625em) {
+	.app-pane-red,
+	.app-pane-yellow,
+	.app-pane-lgray {
+		padding-bottom: 1px;
+	}
+}
+  </style>
+  <script async="" src="https://scripts.luigisbox.com/LBX-134645.js?v=1.0.0">
+  </script>
+ </head>
+ <body class="govuk-template__body">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+   <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-PQWLJHB" style="display:none;visibility:hidden" width="0">
+   </iframe>
+  </noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  <script>
+   document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');
+  </script>
+  <a class="govuk-skip-link" href="#main-content">
+   Preskočiť na hlavný obsah
+  </a>
+  <header class="idsk-header" data-module="govuk-header" role="banner">
+   <div class="idsk-header__container govuk-width-container">
+    <div class="idsk-header__logo">
+     <a class="idsk-header__link idsk-header__link--homepage" href="https://korona.gov.sk" title="Koronavírus a Slovensko - Domov">
+      <span class="idsk-header__logotype">
+       <svg class="idsk-header__logotype-crown" fill="none" focusable="false" height="30" role="presentation" viewbox="0 0 277 44" width="188" xmlns="http://www.w3.org/2000/svg">
+        <style>
+         .a {
+            fill: white;
+        }
+        </style>
+        <path class="a" d="M13.7 39L13.5 38.9C8 36.3 0 31 0 20.4 0 15.2 0.1 11.5 0.2 9 0.3 7.8 0.4 6.9 0.4 6.3 0.4 6 0.5 5.7 0.5 5.6 0.5 5.5 0.5 5.5 0.5 5.4 0.5 5.4 0.5 5.4 0.5 5.4 0.5 5.4 0.5 5.4 0.5 5.4 0.5 5.4 0.5 5.4 0.5 5.4L0.5 5.4C0.5 5.4 0.5 5.4 0.9 5.4 0.9 5.4 0.4 10.1 0.4 20.4 0.4 30.7 8.2 35.9 13.7 38.6 19.1 35.9 26.9 30.7 26.9 20.4 26.9 10.1 26.4 5.4 26.4 5.4 26.8 5.4 26.8 5.4 26.8 5.4L26.8 5.4C26.8 5.4 26.8 5.4 26.8 5.4 26.8 5.4 26.8 5.4 26.8 5.4 26.8 5.5 26.9 5.5 26.9 5.6 26.9 5.7 26.9 6 26.9 6.3 27 6.9 27 7.8 27.1 9 27.2 11.5 27.3 15.2 27.3 20.4 27.3 31 19.3 36.3 13.8 38.9L13.7 39ZM26.4 5.4L26.8 5.4 26.8 5H0.5L0.5 5.4 0.9 5.4H26.4Z">
+        </path>
+        <path class="a" d="M14.8 25.8V20.1C16.5 20.1 19.4 20.1 21.8 20.9 21.8 20.9 21.7 20 21.7 18.9 21.7 17.8 21.8 16.9 21.8 16.9 19.2 17.8 16.3 17.7 14.8 17.7V14.1C16.2 14.1 18.1 14.2 20.3 14.9 20.3 14.9 20.2 14 20.2 12.9 20.2 11.8 20.3 10.9 20.3 10.9 18.1 11.7 16.2 11.7 14.8 11.7 14.9 9.4 15.6 6.6 15.6 6.6 15.6 6.6 14.2 6.7 13.7 6.7 13.1 6.7 11.8 6.6 11.8 6.6 11.8 6.6 12.4 9.4 12.5 11.7 11.1 11.7 9.2 11.7 7 10.9 7 10.9 7.1 11.8 7.1 12.9 7.1 14 7 14.9 7 14.9 9.2 14.2 11.2 14.1 12.5 14.1V17.7C11 17.7 8.1 17.8 5.6 16.9 5.6 16.9 5.6 17.8 5.6 18.9 5.6 20 5.6 20.9 5.6 20.9 7.9 20.1 10.8 20.1 12.5 20.1V25.8H14.8V25.8Z">
+        </path>
+        <path class="a" d="M24.3 29.8C23.6 28.5 22.5 27.2 20.9 27.2 18.7 27.2 17.9 29 17.9 29 17.9 29 16.4 25.2 13.7 25.2 10.9 25.2 9.4 29 9.4 29 9.4 29 8.6 27.2 6.4 27.2 4.9 27.2 3.7 28.5 3 29.8 5.8 34.2 10.2 36.9 13.7 38.6 17.1 36.9 21.5 34.2 24.3 29.8Z">
+        </path>
+        <path class="a" d="M42.5 35V8.4H47.9V23.6H48.1L54 16.2H60.1L53.5 23.9 60.6 35H54.6L50.3 27.7 47.9 30.4V35H42.5ZM70.3 35.5C69.1 35.5 68 35.2 66.8 34.8 65.7 34.4 64.7 33.7 63.9 32.9 63 32 62.4 31 61.9 29.8 61.4 28.6 61.1 27.1 61.1 25.6 61.1 24 61.4 22.6 61.9 21.4 62.4 20.2 63 19.1 63.9 18.3 64.7 17.4 65.7 16.8 66.8 16.4 68 15.9 69.1 15.7 70.3 15.7 71.5 15.7 72.6 15.9 73.7 16.4 74.8 16.8 75.8 17.4 76.7 18.3 77.5 19.1 78.2 20.2 78.7 21.4 79.2 22.6 79.5 24 79.5 25.6 79.5 27.1 79.2 28.6 78.7 29.8 78.2 31 77.5 32 76.7 32.9 75.8 33.7 74.8 34.4 73.7 34.8 72.6 35.2 71.5 35.5 70.3 35.5ZM70.3 30.9C71.4 30.9 72.3 30.5 72.9 29.5 73.5 28.5 73.8 27.2 73.8 25.6 73.8 23.9 73.5 22.6 72.9 21.7 72.3 20.7 71.4 20.2 70.3 20.2 69.1 20.2 68.3 20.7 67.7 21.7 67.1 22.6 66.8 23.9 66.8 25.6 66.8 27.2 67.1 28.5 67.7 29.5 68.3 30.5 69.1 30.9 70.3 30.9ZM83.3 35V16.2H87.9L88.2 19.5H88.4C89.1 18.2 89.9 17.2 90.9 16.6 91.8 16 92.8 15.7 93.7 15.7 94.3 15.7 94.7 15.7 95 15.8 95.4 15.9 95.7 15.9 96 16.1L95.1 20.9C94.7 20.8 94.4 20.7 94.1 20.7 93.8 20.6 93.4 20.6 93 20.6 92.3 20.6 91.6 20.9 90.8 21.4 90 21.9 89.4 22.8 88.9 24.1V35H83.3ZM106.2 35.5C105 35.5 103.8 35.2 102.7 34.8 101.6 34.4 100.6 33.7 99.7 32.9 98.9 32 98.2 31 97.7 29.8 97.2 28.6 97 27.1 97 25.6 97 24 97.2 22.6 97.7 21.4 98.2 20.2 98.9 19.1 99.7 18.3 100.6 17.4 101.6 16.8 102.7 16.4 103.8 15.9 105 15.7 106.2 15.7 107.3 15.7 108.5 15.9 109.6 16.4 110.7 16.8 111.7 17.4 112.5 18.3 113.4 19.1 114 20.2 114.6 21.4 115.1 22.6 115.3 24 115.3 25.6 115.3 27.1 115.1 28.6 114.6 29.8 114 31 113.4 32 112.5 32.9 111.7 33.7 110.7 34.4 109.6 34.8 108.5 35.2 107.3 35.5 106.2 35.5ZM106.2 30.9C107.3 30.9 108.2 30.5 108.7 29.5 109.3 28.5 109.6 27.2 109.6 25.6 109.6 23.9 109.3 22.6 108.7 21.7 108.2 20.7 107.3 20.2 106.2 20.2 105 20.2 104.1 20.7 103.5 21.7 103 22.6 102.7 23.9 102.7 25.6 102.7 27.2 103 28.5 103.5 29.5 104.1 30.5 105 30.9 106.2 30.9ZM119.1 35V16.2H123.7L124.1 18.5H124.2C125 17.8 125.9 17.1 126.9 16.6 127.9 16 129 15.7 130.3 15.7 132.3 15.7 133.8 16.4 134.7 17.7 135.7 19.1 136.1 20.9 136.1 23.3V35H130.5V24C130.5 22.7 130.3 21.7 130 21.2 129.6 20.7 129 20.4 128.2 20.4 127.5 20.4 126.9 20.6 126.4 20.9 125.9 21.2 125.3 21.7 124.7 22.3V35H119.1ZM145.6 35.5C144.8 35.5 144 35.3 143.3 35 142.6 34.7 142 34.3 141.5 33.8 141 33.3 140.7 32.7 140.4 32 140.1 31.3 140 30.6 140 29.8 140 27.8 140.8 26.2 142.5 25.1 144.2 24 146.9 23.3 150.6 22.9 150.6 22 150.3 21.4 149.9 20.9 149.4 20.4 148.7 20.1 147.6 20.1 146.8 20.1 146 20.3 145.2 20.6 144.4 20.9 143.6 21.3 142.7 21.9L140.7 18.2C141.9 17.4 143.1 16.8 144.5 16.4 145.8 15.9 147.2 15.7 148.7 15.7 151.1 15.7 153 16.4 154.3 17.8 155.6 19.2 156.2 21.3 156.2 24.2V35H151.6L151.3 33.1H151.1C150.3 33.8 149.4 34.4 148.6 34.8 147.7 35.2 146.7 35.5 145.6 35.5ZM147.5 31.1C148.2 31.1 148.7 31 149.2 30.7 149.6 30.4 150.1 30 150.6 29.5V26.2C148.6 26.5 147.3 26.9 146.5 27.4 145.7 28 145.4 28.6 145.4 29.3 145.4 29.9 145.6 30.4 145.9 30.7 146.3 31 146.9 31.1 147.5 31.1ZM164.2 35.5C163.2 35.5 162.4 35.1 161.7 34.5 161.1 33.8 160.8 32.9 160.8 32 160.8 30.9 161.1 30.1 161.7 29.5 162.4 28.8 163.2 28.4 164.2 28.4 165.1 28.4 165.9 28.8 166.5 29.5 167.2 30.1 167.5 30.9 167.5 32 167.5 32.9 167.2 33.8 166.5 34.5 165.9 35.1 165.1 35.5 164.2 35.5ZM179 43C177.9 43 176.9 42.9 175.9 42.7 175 42.5 174.2 42.3 173.4 41.9 172.7 41.5 172.2 41 171.7 40.4 171.3 39.8 171.1 39.1 171.1 38.2 171.1 36.7 172 35.4 173.8 34.4V34.3C173.3 33.9 172.9 33.5 172.6 33 172.3 32.5 172.1 31.9 172.1 31.1 172.1 30.4 172.3 29.8 172.7 29.1 173.1 28.5 173.6 28 174.2 27.6V27.4C173.6 26.9 173 26.3 172.4 25.5 171.9 24.6 171.7 23.6 171.7 22.5 171.7 21.4 171.9 20.4 172.3 19.5 172.7 18.7 173.3 18 174 17.4 174.8 16.8 175.6 16.4 176.5 16.1 177.5 15.8 178.4 15.7 179.5 15.7 180.6 15.7 181.6 15.8 182.4 16.2H189.3V20.2H186.3C186.4 20.5 186.6 20.9 186.7 21.3 186.8 21.7 186.9 22.2 186.9 22.7 186.9 23.8 186.7 24.7 186.3 25.5 185.9 26.3 185.4 27 184.7 27.5 184 28 183.3 28.4 182.3 28.7 181.5 28.9 180.5 29 179.5 29 178.7 29 178 28.9 177.2 28.7 176.9 28.9 176.7 29.1 176.6 29.3 176.5 29.5 176.5 29.7 176.5 30.1 176.5 30.5 176.7 30.9 177.1 31.1 177.5 31.4 178.3 31.5 179.3 31.5H182.4C184.7 31.5 186.5 31.8 187.7 32.6 188.9 33.3 189.6 34.6 189.6 36.3 189.6 37.2 189.3 38.1 188.8 39 188.3 39.8 187.6 40.5 186.7 41.1 185.8 41.7 184.7 42.2 183.4 42.5 182.1 42.8 180.7 43 179 43ZM179.5 25.7C180.2 25.7 180.8 25.4 181.3 24.9 181.8 24.4 182 23.6 182 22.5 182 21.5 181.8 20.8 181.3 20.3 180.8 19.7 180.2 19.5 179.5 19.5 178.7 19.5 178.1 19.7 177.6 20.2 177.1 20.7 176.9 21.5 176.9 22.5 176.9 23.6 177.1 24.4 177.6 24.9 178.1 25.4 178.7 25.7 179.5 25.7ZM179.9 39.5C181.2 39.5 182.2 39.3 183 38.8 183.8 38.4 184.2 37.9 184.2 37.2 184.2 36.6 184 36.2 183.5 36 183 35.8 182.3 35.7 181.4 35.7H179.4C178.8 35.7 178.2 35.7 177.8 35.6 177.4 35.6 177.1 35.6 176.8 35.5 176.1 36.1 175.7 36.7 175.7 37.4 175.7 38.1 176.1 38.6 176.9 39 177.6 39.3 178.6 39.5 179.9 39.5ZM200 35.5C198.9 35.5 197.7 35.2 196.6 34.8 195.5 34.4 194.5 33.7 193.6 32.9 192.8 32 192.1 31 191.6 29.8 191.1 28.6 190.8 27.1 190.8 25.6 190.8 24 191.1 22.6 191.6 21.4 192.1 20.2 192.8 19.1 193.6 18.3 194.5 17.4 195.5 16.8 196.6 16.4 197.7 15.9 198.9 15.7 200 15.7 201.2 15.7 202.4 15.9 203.5 16.4 204.6 16.8 205.6 17.4 206.4 18.3 207.2 19.1 207.9 20.2 208.4 21.4 208.9 22.6 209.2 24 209.2 25.6 209.2 27.1 208.9 28.6 208.4 29.8 207.9 31 207.2 32 206.4 32.9 205.6 33.7 204.6 34.4 203.5 34.8 202.4 35.2 201.2 35.5 200 35.5ZM200 30.9C201.2 30.9 202 30.5 202.6 29.5 203.2 28.5 203.5 27.2 203.5 25.6 203.5 23.9 203.2 22.6 202.6 21.7 202 20.7 201.2 20.2 200 20.2 198.9 20.2 198 20.7 197.4 21.7 196.9 22.6 196.6 23.9 196.6 25.6 196.6 27.2 196.9 28.5 197.4 29.5 198 30.5 198.9 30.9 200 30.9ZM217.1 35L210.7 16.2H216.3L218.8 25C219 26 219.3 26.9 219.5 27.9 219.7 28.9 220 29.9 220.3 30.9H220.4C220.6 29.9 220.9 28.9 221.1 27.9 221.3 26.9 221.6 26 221.8 25L224.3 16.2H229.7L223.5 35H217.1ZM233.6 35.5C232.6 35.5 231.8 35.1 231.2 34.5 230.5 33.8 230.2 32.9 230.2 32 230.2 30.9 230.5 30.1 231.2 29.5 231.8 28.8 232.6 28.4 233.6 28.4 234.5 28.4 235.3 28.8 236 29.5 236.6 30.1 237 30.9 237 32 237 32.9 236.6 33.8 236 34.5 235.3 35.1 234.5 35.5 233.6 35.5ZM247.3 35.5C246.1 35.5 244.8 35.2 243.5 34.7 242.2 34.3 241 33.6 240.1 32.8L242.6 29.3C243.4 30 244.3 30.5 245.1 30.8 245.8 31.1 246.6 31.3 247.4 31.3 248.3 31.3 248.9 31.2 249.3 30.9 249.7 30.6 249.8 30.2 249.8 29.7 249.8 29.4 249.7 29.1 249.5 28.9 249.3 28.7 249 28.4 248.6 28.2 248.3 28 247.9 27.9 247.4 27.7 247 27.5 246.5 27.3 246 27.1 245.4 26.9 244.8 26.6 244.3 26.3 243.7 26 243.1 25.7 242.7 25.2 242.2 24.8 241.8 24.3 241.5 23.7 241.2 23.1 241 22.4 241 21.6 241 20.7 241.2 19.9 241.5 19.2 241.9 18.5 242.4 17.8 243 17.3 243.6 16.8 244.4 16.4 245.3 16.2 246.2 15.8 247.2 15.7 248.2 15.7 249.7 15.7 251 15.9 252 16.5 253.1 16.9 254.1 17.5 254.9 18.1L252.4 21.4C251.7 20.9 251 20.5 250.4 20.3 249.7 20 249.1 19.8 248.4 19.8 247 19.8 246.3 20.3 246.3 21.3 246.3 21.6 246.4 21.9 246.6 22.1 246.8 22.3 247 22.5 247.4 22.7 247.7 22.9 248.1 23 248.5 23.2 249 23.4 249.5 23.5 250 23.7 250.6 23.9 251.2 24.2 251.7 24.5 252.3 24.8 252.9 25.1 253.4 25.6 253.9 26 254.3 26.5 254.6 27.2 254.9 27.8 255 28.5 255 29.4 255 30.2 254.9 31 254.6 31.8 254.2 32.5 253.7 33.2 253.1 33.7 252.4 34.2 251.6 34.7 250.6 35 249.7 35.3 248.6 35.5 247.3 35.5ZM258.6 35V8.4H264V23.6H264.2L270.1 16.2H276.2L269.6 23.9 276.7 35H270.7L266.4 27.7 264 30.4V35H258.6Z">
+        </path>
+       </svg>
+      </span>
+     </a>
+    </div>
+    <div class="idsk-header__content">
+     <form class="search-form" id="search-form">
+      <label for="search-input">
+       Zadajte hľadaný výraz:
+      </label>
+      <input autocomplete="off" class="govuk-input search-input" id="search-input" placeholder="Zadajte hľadaný výraz" type="search"/>
+      <button class="govuk-button search-button" type="submit">
+       <span>
+        Vyhľadať
+       </span>
+      </button>
+     </form>
+     <div class="language-picker js-language-picker" data-trigger-class="btn btn--subtle js-tab-focus">
+      <form action="" class="x-nua">
+       <label for="language-picker-select">
+        Select your language
+       </label>
+       <select id="language-picker-select" name="language-picker-select">
+        <option data-url="https://korona.gov.sk/en/smart-quarantine-self-isolation-as-an-alternative-to-institutional-quarantine/" lang="en" value="English">
+         English
+        </option>
+        <option data-url="https://korona.gov.sk/de/intelligente-quarantaene-haeusliche-isolierung-als-alternative-zur-staatsquarantaene/" lang="de" value="Deutsch">
+         Deutsch
+        </option>
+        <option data-url="https://korona.gov.sk/ekarantena/" lang="sk" selected="" value="Slovenčina">
+         Slovenčina
+        </option>
+        <option data-url="https://korona.gov.sk/hu/intelligens-karanten-allami-karantenkozpont-helyett-hazi-karanten/" lang="hu" value="Magyar">
+         Magyar
+        </option>
+        <option data-url="https://korona.gov.sk/uk/smart-karantyn-domashnia-izoliatsiia-iak-alternatyva-derzhavnoho-karantynu/" lang="uk" value="Українська">
+         Українська
+        </option>
+        <option data-url="https://korona.gov.sk/rom/smart-karantena-kherutni-izolacija-sar-alternativa-le-themutni-karantenake/" lang="rom" value="Romano">
+         Romano
+        </option>
+       </select>
+      </form>
+     </div>
+    </div>
+   </div>
+  </header>
+  <div class="app-pane-yellow govuk-!-padding-top-3">
+   <div class="govuk-width-container">
+    <div class="govuk-grid-row">
+     <div class="govuk-grid-column-full">
+      <p class="govuk-body">
+       Smart karanténa spustená pre
+       <strong>
+        Android
+       </strong>
+       aj pre
+       <strong>
+        iOS
+       </strong>
+       !
+       <a class="govuk-link" href="https://korona.gov.sk/ekarantena/" target="_self" title="Smart karanténa – domáca izolácia ako alternatíva štátnej karantény">
+        Viac informácií.
+       </a>
+      </p>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="govuk-width-container">
+   <div class="govuk-phase-banner">
+    <p class="govuk-phase-banner__content">
+     <strong class="govuk-tag govuk-phase-banner__content__tag">
+      beta
+     </strong>
+     <span class="govuk-phase-banner__text">
+      Toto je nová stránka, neustále pracujeme na jej zdokonaľovaní.
+     </span>
+    </p>
+   </div>
+  </div>
+  <div class="govuk-width-container">
+   <div class="govuk-breadcrumbs">
+    <ol class="govuk-breadcrumbs__list">
+     <span>
+      <li class="govuk-breadcrumbs__list-item">
+       <a class="govuk-breadcrumbs__link" href="https://korona.gov.sk/">
+        Domov
+       </a>
+      </li>
+      <li class="govuk-breadcrumbs__list-item">
+       <a class="govuk-breadcrumbs__link" href="https://korona.gov.sk/ekarantena/">
+        Smart karanténa – domáca izolácia ako alternatíva štátnej karantény
+       </a>
+      </li>
+     </span>
+    </ol>
+   </div>
+  </div>
+  <main class="govuk-main-wrapper govuk-!-padding-top-6 govuk-!-padding-bottom-6 govuk-body" id="main-content" role="main">
+   <div class="govuk-width-container">
+    <h1 class="govuk-heading-xl govuk-!-margin-bottom-6">
+     Smart karanténa – domáca izolácia ako alternatíva štátnej karantény
+    </h1>
+    <div class="govuk-grid-row">
+     <div class="govuk-grid-column-two-thirds">
+      <div class="govuk-grid-row no govuk-!-padding-top-0 govuk-!-padding-bottom-0" id="block_5ec2842c2ac1d">
+       <div class="govuk-grid-column-full" id="block_5ecaae2b9871d">
+        <div>
+         <p class="govuk-body govuk-hint">
+          Aktualizované 29. mája 2020 9:40 |
+          <a href="https://korona.gov.sk/ekarantena/#ako-postupovat">
+           Ako postupovať?
+          </a>
+         </p>
+        </div>
+       </div>
+       <div class="govuk-grid-column-full" id="block_5ec284202ac1b">
+        <div class="app-pane-blue govuk-!-padding-top-2 govuk-!-padding-bottom-1 govuk-!-padding-right-3 govuk-!-padding-left-3">
+         <p class="govuk-body">
+          <span style="font-size: 20px;">
+           <strong>
+            DOMÁCA KARANTÉNA SPUSTENÁ !
+           </strong>
+          </span>
+          <br/>
+          <br/>
+          <strong>
+           Pre Android a aj pre iOS pre tieto hraničné prechody
+          </strong>
+          :
+         </p>
+         <p class="govuk-body">
+          <strong>
+           Rakúsko
+          </strong>
+         </p>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           Petržalka-Berg,
+          </li>
+          <li>
+           Jarovce-Kitsee.
+          </li>
+         </ul>
+         <p class="govuk-body">
+          <strong>
+           Česká republika
+          </strong>
+         </p>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           Drietoma – Starý Hrozenkov,
+          </li>
+          <li>
+           Brodské – Břeclav,
+          </li>
+          <li>
+           Svrčinovec – Mosty u Jablunkova,
+          </li>
+          <li>
+           Makov -Bíla Bumbálka.
+          </li>
+         </ul>
+         <p class="govuk-body">
+          <strong>
+           Maďarsko
+          </strong>
+         </p>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           Čunovo – Rajka ,
+          </li>
+          <li>
+           Šahy – Parassapusta,
+          </li>
+          <li>
+           Milhost – Tornyosnémeti.
+          </li>
+         </ul>
+         <p class="govuk-body">
+          <strong>
+           Poľsko
+          </strong>
+         </p>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           Vyšný Komárnik – Barwinek,
+          </li>
+          <li>
+           Trstená – Chyžné.
+          </li>
+         </ul>
+         <p class="govuk-body">
+          <strong>
+           Ukrajina
+          </strong>
+         </p>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           Vyšné Nemecké.
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <p class="govuk-body">
+      </p>
+      <div class="govuk-warning-text">
+       <span aria-hidden="true" class="govuk-warning-text__icon">
+        !
+       </span>
+       <strong class="govuk-warning-text__text">
+        <span class="govuk-warning-text__assistive">
+         Upozornenie
+        </span>
+        <p>
+         eKaranténa spustená pre smartfóny s operačným systémom Android a iOS.
+        </p>
+       </strong>
+      </div>
+      <p class="govuk-body">
+       Možnosť domácej izolácie je už otvorená pre
+       <strong>
+        Android
+       </strong>
+       a rovnako aj pre
+       <strong>
+        iOS
+       </strong>
+       , aplikácia je schválená spoločnosťou Google a Apple .
+      </p>
+      <p class="govuk-body">
+       Zároveň sa na Vás vzťahujú všetky podmienky uvedené v texte nižšie, pozorne si prosím prečítajte celý postup.
+      </p>
+      <hr class="wp-block-separator is-style-wide"/>
+      <p class="govuk-body">
+       Vraciate sa na Slovensko a patríte medzi ľudí, ktorí majú príkaz zostať v povinnej štátnej karanténe? Máte dve možnosti:
+      </p>
+      <ol class="govuk-list govuk-list--number">
+       <li>
+        <span style="font-weight: 400">
+         Karanténu strávite v
+         <strong>
+          štátnom zariadení
+         </strong>
+         .
+        </span>
+       </li>
+       <li>
+        <span style="font-weight: 400">
+         Karanténu strávite v
+         <strong>
+          domácej izolácii
+         </strong>
+         za použitia
+        </span>
+        <strong>
+         mobilnej aplikácie eKaranténa
+        </strong>
+        <span style="font-weight: 400">
+         .
+        </span>
+       </li>
+      </ol>
+      <p class="govuk-body">
+       Obe tieto možnosti sú rovnaké v podmienkach a obmedzeniach.
+       <strong>
+        Rozdiel je v mieste výkonu karantény.
+       </strong>
+      </p>
+      <p class="govuk-body">
+       Povinná 14-dňová karanténa platí pre všetkých, ktorí pricestujú zo zahraničia na Slovensko. Do karantény nemusia ísť pendleri a niektoré výnimky,
+       <a href="https://korona.gov.sk/karantenne-opatrenia/">
+        všetky podmienky nájdete na stránke.
+       </a>
+      </p>
+      <h3 class="govuk-heading-l" id="ako-sa-dostat-zo-statnej-do-domacej-izolacia">
+       Ako prejsť z karantény v štátnom zariadení do domácej izolácie?
+      </h3>
+      <div class="govuk-warning-text">
+       <span aria-hidden="true" class="govuk-warning-text__icon">
+        !
+       </span>
+       <strong class="govuk-warning-text__text">
+        <span class="govuk-warning-text__assistive">
+         Upozornenie
+        </span>
+        <p>
+         <b>
+          Ak ste od 26.mája 08:00 prekročii hranice Slovenskej republiky a ste v štátnej karanténe, môžete už využiť možnosť presunu do domácej izolácie.
+         </b>
+        </p>
+       </strong>
+      </div>
+      <p class="govuk-body">
+       Podmienky presunu zo štátnej karantény do domácej izolácie s využitím aplikácie eKaranténa sú:
+      </p>
+      <ul class="govuk-list govuk-list--bullet">
+       <li>
+        <span style="font-weight: 400">
+         realizácia testu na ochorenie COVID-19 (vrátane doručenia negatívneho výsledku),
+        </span>
+       </li>
+       <li>
+        <span style="font-weight: 400">
+         <strong>
+          alebo
+         </strong>
+         preukázanie sa aktivovanou mobilnou aplikáciou eKaranténa. Potvrdenie aktivácie mobilnej aplikácie eKaranténa zabezpečí príslušník Policajného zboru.
+        </span>
+       </li>
+      </ul>
+      <p class="govuk-body">
+       Až po realizácii jednej z vyššie uvedených úkonoch je možný presun do domácej izolácie. Osoby, ktorým už bol realizovaný test na ochorenie COVID-19 (s negatívnym výsledkom), test nemusia opätovne realizovať po presune do domácej izolácie.
+      </p>
+      <h3 class="govuk-heading-l">
+       Základné podmienky domácej izolácie
+      </h3>
+      <div class="govuk-grid-row no govuk-!-padding-top-0 govuk-!-padding-bottom-0" id="block_5ec780bcde129">
+       <div class="govuk-grid-column-full" id="block_5ec780bcde12a">
+        <div class="app-pane-blue govuk-!-padding-top-1 govuk-!-padding-bottom-1 govuk-!-padding-right-3 govuk-!-padding-left-3">
+         <p class="govuk-body">
+         </p>
+         <ul class="govuk-list">
+          <li>
+           <span style="font-size: 20px">
+            1. smartfón s kamerou, určovaním polohy a SIM kartou funkčnou aj na území Slovenska
+           </span>
+          </li>
+         </ul>
+         <ul class="govuk-list">
+          <li>
+           <span style="font-size: 20px">
+            2. po celý čas dostatočne nabitý smartfón (odporúčame 100 %),
+           </span>
+          </li>
+         </ul>
+         <ul class="govuk-list">
+          <li>
+           <span style="font-size: 20px">
+            3. nonstop Wi-Fi pripojenie alebo dostatok mobilných dát,
+           </span>
+          </li>
+         </ul>
+         <ul class="govuk-list">
+          <li>
+           <span style="font-size: 20px">
+            4. dostatočnosť mobilného signálu na Vami vybranom mieste domácej izolácie,
+           </span>
+          </li>
+         </ul>
+         <ul class="govuk-list">
+          <li>
+           <span style="font-size: 20px">
+            5. osoby v spoločnej domácnosti musia absolvovať domácu izoláciu spolu s Vami,
+           </span>
+          </li>
+         </ul>
+         <ul class="govuk-list">
+          <li>
+           <span style="font-size: 20px">
+            6. upovedomenie osoby, ktorá Vás preváža zo štátnej hranice o povinnosti chrániť sa bezventilovým respirátorom FFP2/KN95,
+           </span>
+          </li>
+         </ul>
+         <ul class="govuk-list">
+          <li>
+           <span style="font-size: 20px">
+            7. najskôr na 5. deň od vstupu na územie SR absolvovať test na COVID−19
+           </span>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <p class="govuk-body">
+      </p>
+      <h3 class="govuk-heading-l">
+       Ako domáca izolácia vlastne vyzerá?
+      </h3>
+      <p class="govuk-body">
+       <strong>
+        Na zabezpečenie dohľadu nad dodržiavaním pravidiel domácej izolácie slúži mobilná aplikácia eKaranténa
+       </strong>
+       . Vďaka nej môžete povinných 14 dní prečkať v pohodlí Vášho domova.
+      </p>
+      <p class="govuk-body">
+       <strong>
+        Podmienkou domácej izolácie je povinné absolvovanie testu na COVID-19
+       </strong>
+       . Pre testovanie na COVID-19 Vás bude v priebehu niekoľkých dní po nastúpení do domácej izolácie kontaktovať pracovník Regionálneho úradu verejného zdravotníctva, alebo Vás aplikácia eKaranténa vyzve, aby ste sa objednali na test sami na stránke korona.gov.sk (viac informácií nájdete v časti Test na COVID-19).
+      </p>
+      <p class="govuk-body">
+       <strong>
+        <span style="color:#DF3034">
+         Počas 14-tich dní domácej izolácie nemôžete opustiť svoju domácnosť
+        </span>
+       </strong>
+       .
+       <br/>
+       Myslite na to, že na celý čas strávený v domácej izolácii si treba zabezpečiť potravinové a iné nevyhnutné zásoby (napr. lieky). Môžete využiť donáškové služby, pomoc susedov, priateľov, dobrovoľníkov, ale Vy ani členovia Vašej domácnosti nemôžete opustiť domácu izoláciu.
+      </p>
+      <p class="govuk-body">
+       <strong>
+        Pokiaľ žijete v spoločnej domácnosti s inými osobami,
+        <strong>
+         povinnosť domácej izolácie sa vzťahuje aj na tieto os
+        </strong>
+        oby spolu s Vami. Domácu izoláciu neodporúčame absolvovať v spoločnej domácnosti, v ktorej žije
+       </strong>
+       <strong>
+        človek starší ako 65 rokov
+       </strong>
+       . Prosím, premyslite si voľbu domácej izolácie aj s ohľadom na členov Vašej domácnosti.
+      </p>
+      <h3 class="govuk-heading-l" id="ako-postupovat">
+       Chcete sa vrátiť na Slovensko a máte záujem o domácu izoláciu. Ako máte postupovať?
+      </h3>
+      <p class="govuk-body">
+       Ak ste rozhodnutí pre domácu izoláciu, vyplňte registračný formulár a stiahnite si aplikáciu eKaranténa
+       <strong>
+        v dostatočnom predstihu pred príchodom na štátne hranice
+       </strong>
+       .
+      </p>
+      <div class="govuk-warning-text">
+       <span aria-hidden="true" class="govuk-warning-text__icon">
+        !
+       </span>
+       <strong class="govuk-warning-text__text">
+        <span class="govuk-warning-text__assistive">
+         Upozornenie
+        </span>
+        <p>
+         <b>
+          Nenechajte si to na poslednú chvíľu. Na štátnych hraniciach väčšinou nie je dostatočný mobilný signál, ani internetové pripojenie.
+         </b>
+        </p>
+       </strong>
+      </div>
+      <p class="govuk-body">
+       V ďalšej časti Vám vysvetlíme postup.
+      </p>
+      <div class="govuk-accordion" data-attribute="value" data-module="govuk-accordion" id="gov-blocks-accordion-block_5ec131b56fe7a">
+       <div class="govuk-accordion__section">
+        <div class="govuk-accordion__section-header">
+         <h2 class="govuk-accordion__section-heading">
+          <span class="govuk-accordion__section-button" id="registracny-formular">
+           1. Vyplňte formulár na stránke korona.gov.sk
+          </span>
+         </h2>
+        </div>
+        <div aria-labelledby="registracny-formular" class="govuk-accordion__section-content" id="registracny-formular">
+         <h3 class="govuk-heading-m">
+          Údaje vo formulári
+         </h3>
+         <p class="govuk-body">
+          Do formulára budete musieť zadať:
+         </p>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           <span style="font-weight: 400">
+            osobné údaje,
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            mobilné telefónne číslo,
+            <strong>
+             Pozor:
+            </strong>
+            <strong>
+             Po registrácii nemôžete meniť SIM kartu !  Musíte používať tú SIM kartu a telefónne číslo, s ktorým sa zaregistrujete.
+            </strong>
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            hraničný prechod, cez ktorý budete prechádzať,
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            poznávaciu značku vozidla (ak v ňom plánujete prekročiť hranicu),
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            osoby, s ktorými cestujete alebo budete v domácej izolácii,
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            miesto izolácie (pozor: vždy musíte miesto označiť miesto aj presne na mape vo formulári;
+           </span>
+           <span style="font-weight: 400">
+            ak ide o chatku, prípadne záhradný domček, ktoré nemajú súpisné číslo, nie je podmienkou presná adresa, toto miesto označte priamo na mape vo formulári),
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            deti do 16 rokov a osoby žijúce v spoločnej domácnosti, s ktorými chcete stráviť domácu izoláciu.
+           </span>
+          </li>
+         </ul>
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            <b>
+             Venujte prosím vypĺňaniu registračného formulára veľkú pozornosť a osoby v spoločnej domácnosti starostlivo zvážte, po zaregistrovaní údaje zadané do registračného formulára už nemôžete meniť ani dopĺňať!
+            </b>
+           </p>
+          </strong>
+         </div>
+         <p class="govuk-body">
+          V prípade ak ste zadali
+          <strong>
+           nesprávne miesto domácej izolácie
+          </strong>
+          budete jeden krát
+          <strong>
+           vyzvaní na jeho opravu
+          </strong>
+          .
+         </p>
+         <p class="govuk-body">
+          <strong>
+           Osoby v spoločnej domácnosti
+          </strong>
+          , ktorým vznikne povinnosť ostať v domácej izolácii spolu s Vami
+          <strong>
+           sa nemusia samostatne registrovať a stiahnuť si aplikáciu eKaranténa.
+          </strong>
+          Tieto osoby ale
+          <strong>
+           musia byť uvedené vo Vašom registračnom formulári
+          </strong>
+          . Za účelom kontroly nahlásenia všetkých osôb v domácnosti k Vám
+          <strong>
+           môže prísť námatková kontrola
+          </strong>
+          Regionálneho úradu verejného zdravotníctva a za porušenie tohto nariadenia Vám
+          <strong>
+           hrozí pokuta
+          </strong>
+          .
+         </p>
+         <h3 class="govuk-heading-m">
+          Deti do 16 rokov
+         </h3>
+         <p class="govuk-body">
+          <strong>
+           Deti do 16 rokov sa neregistrujú
+          </strong>
+          prostredníctvom registračného formuláru
+          <strong>
+           ani si nesťahujú aplikáciu eKaranténa,
+          </strong>
+          nahlasuje ich zákonný zástupca vo svojom registračnom formulári (kolónka Osoby, s ktorými cestujete alebo budete tráviť domácu izoláciu).
+         </p>
+         <div class="govuk-inset-text">
+          <p>
+           <strong>
+            Príklad:
+           </strong>
+           <br/>
+           Ak cestujete 2 dospelí a 2 deti do 16 rokov, o registráciu musia požiadať a aplikáciu musia mať nainštalovanú a spustenú obaja dospelí. Deti musia byť uvedené v dospelých.
+          </p>
+         </div>
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            Pred zaregistrovaním sa a následným stiahnutím aplikácie sa ubezpečte, že máte smartfón dostatočne nabitý (odporúčame 100 %). Po celý čas ho udržujete dostatočne nabitý. Pri slabej batérii sú automaticky vypínané funkcie ako určovanie polohy čo môže viesť k porušeniu domácej izolácie.
+           </p>
+          </strong>
+         </div>
+         <p class="govuk-body">
+          Zaregistrujte sa vyplnením registračného formuláru pre domácu izoláciu.
+         </p>
+         <a class="govuk-button govuk-!-margin-right-3 govuk-button--start" data-module="govuk-button" draggable="false" href="http://ekarantena.korona.gov.sk" role="button" target="_blank">
+          Zaregistrovať sa
+          <svg class="govuk-button__start-icon" focusable="false" height="19" role="presentation" viewbox="0 0 33 40" width="17.5" xmlns="http://www.w3.org/2000/svg">
+           <path d="M0 0h13l20 20-20 20H0l20-20z" fill="currentColor">
+           </path>
+          </svg>
+         </a>
+         <div class="govuk-inset-text">
+          <p>
+           Po vyplnení registračného formuláru sa Vám objaví informácia, že je potrebné si stiahnuť aplikáciu eKaranténa.
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="govuk-accordion__section">
+        <div class="govuk-accordion__section-header">
+         <h2 class="govuk-accordion__section-heading">
+          <span class="govuk-accordion__section-button" id="minimalne-technicke-poziadavky">
+           2.  Minimálne technické požiadavky na aplikáciu eKaranténa
+          </span>
+         </h2>
+        </div>
+        <div aria-labelledby="minimalne-technicke-poziadavky" class="govuk-accordion__section-content" id="minimalne-technicke-poziadavky">
+         <div class="govuk-grid-row no govuk-!-padding-top-0 govuk-!-padding-bottom-0" id="block_5ec21c6a6cec1">
+          <div class="govuk-grid-column-one-half" id="block_5ec21c786cec3">
+           <div>
+            <h3 class="govuk-heading-m">
+             Android
+            </h3>
+            <ul class="govuk-list govuk-list--bullet">
+             <li>
+              <span style="font-weight: 400">
+               minimálne operačný systém Android verzia 5.0 alebo novší
+              </span>
+             </li>
+             <li>
+              <span style="font-weight: 400">
+               Google Play Services v 13.0
+              </span>
+             </li>
+             <li>
+              <span style="font-weight: 400">
+               kamera
+              </span>
+             </li>
+             <li>
+              <span style="font-weight: 400">
+               určovanie polohy (známe ako GPS)
+              </span>
+             </li>
+             <li>
+              <span style="font-weight: 400">
+               internetové spojenie
+              </span>
+             </li>
+            </ul>
+           </div>
+          </div>
+          <div class="govuk-grid-column-one-half" id="block_5ec21c826cec5">
+           <div>
+            <h3 class="govuk-heading-m">
+             iOS
+            </h3>
+            <ul class="govuk-list govuk-list--bullet">
+             <li>
+              <span style="font-weight: 400">
+               minimálne operačný systém iOS 10.0 alebo novší
+              </span>
+             </li>
+             <li>
+              <span style="font-weight: 400">
+               povolenie PUSH notifikácií
+              </span>
+             </li>
+             <li>
+              <span style="font-weight: 400">
+               kamera
+              </span>
+             </li>
+             <li>
+              <span style="font-weight: 400">
+               určovanie polohy (známe ako GPS)
+              </span>
+             </li>
+             <li>
+              <span style="font-weight: 400">
+               internetové spojenie
+              </span>
+             </li>
+            </ul>
+           </div>
+          </div>
+         </div>
+         <div class="govuk-inset-text">
+          <p>
+           Pre zabezpečenie domácej izolácie budete náhodne vyzývaní na rozpoznanie prostredníctvom biometrie tváre.
+           <strong>
+            Rozpoznanie pomocou biometrie tváre
+           </strong>
+           bude technologicky zabezpečené priamo
+           <strong>
+            pomocou aplikácie eKaranténa
+           </strong>
+           (tzn. nemusíte mať smartfón, ktorý podporuje rozpoznanie biometrie tváre, napríklad iPhone s Face ID technológiou, stačí kamera).
+          </p>
+         </div>
+        </div>
+       </div>
+       <div class="govuk-accordion__section">
+        <div class="govuk-accordion__section-header">
+         <h2 class="govuk-accordion__section-heading">
+          <span class="govuk-accordion__section-button" id="stiahnutie-aktivacia-aplikacie-pred-prichodom">
+           3. Stiahnutie a aktivácia aplikácie pred príchodom na štátnu hranicu
+          </span>
+         </h2>
+        </div>
+        <div aria-labelledby="stiahnutie-aktivacia-aplikacie-pred-prichodom" class="govuk-accordion__section-content" id="stiahnutie-aktivacia-aplikacie-pred-prichodom">
+         <h3 class="govuk-heading-m">
+          Čo a ako musím spraviť pred príchodom na hranicu ?
+         </h3>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           <span style="font-weight: 400">
+            Pred začatím sťahovania aplikácie prosím
+            <strong>
+             skontrolujte či máte v smartfóne dostatok miesta
+            </strong>
+            (odporúčame napríklad vymazať zbytočné aplikácie, ktoré nepoužívate).
+           </span>
+          </li>
+         </ul>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           <span style="font-weight: 400">
+            Po úspešnej registrácii Vám príde
+            <strong>
+             SMS s linkom pre stiahnutie aplikácie,
+            </strong>
+            na ktorý je potrebné kliknúť. SMS si uschovajte, nevymazávajte ju z telefónu, link pre stiahnutie použijete v prípade problémov s aplikáciu a aj pre aktualizáciu aplikácie.
+           </span>
+          </li>
+         </ul>
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            Po stiahnutí aplikácie nemôžete meniť telefón a SIM kartu s telefónnym číslom.
+           </p>
+          </strong>
+         </div>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           Pre stiahnutie aplikácie je možné použiť
+           <strong>
+            Google Play
+           </strong>
+           alebo
+           <strong>
+            App Store
+           </strong>
+           .
+          </li>
+         </ul>
+         <div class="govuk-grid-row no govuk-!-padding-top-0 govuk-!-padding-bottom-0" id="block_5ecb93e60c7d5">
+          <div class="govuk-grid-column-one-half" id="block_5ecb93fb0c7d7">
+           <div>
+            <p class="govuk-body has-text-align-center">
+             <a href="https://play.google.com/store/apps/details?id=sk.nczi.ekarantena">
+              <img alt="android-app-zozstanzdravy" class="wp-image-4869" src="https://korona.gov.sk/wp-content/uploads/2020/04/googleplay.png" style="width: 160px;"/>
+             </a>
+            </p>
+           </div>
+          </div>
+          <div class="govuk-grid-column-one-half" id="block_5ecb940c0c7d9">
+           <div>
+            <p class="govuk-body has-text-align-center">
+             <a href="https://apps.apple.com/sk/app/ekarantena-slovensko/id1513127897?l=sk">
+              <img alt="ios-app-zozstanzdravy" class="wp-image-4864" src="https://korona.gov.sk/wp-content/uploads/2020/04/appstore.png" style="width: 160px; "/>
+             </a>
+            </p>
+           </div>
+          </div>
+         </div>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           Po stiahnutí aplikácie
+           <strong>
+            povoľte všetky prístupy a následne budete vyzvaní na zadanie Vášho mobilného čísla priamo do aplikácie.
+           </strong>
+          </li>
+         </ul>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           <strong>
+            Následne Vám príde aktivačná SMS. V aktivačnej SMS bude uvedený kód, ktorý je potrebné zadať do aplikácie eKaranténa.
+           </strong>
+           Po zadaní kódu sa aplikácia eKaranténa spáruje s Vašou registráciou. V aplikácii uvidíte Váš
+           <strong>
+            COVID-19-PASS
+           </strong>
+           (čiarový kód a tri trojice znakov), ktorý Vám bol pridelený po registrácii.
+          </li>
+         </ul>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           <strong>
+            Aplikácia eKaranténa Vás informuje o tom, že je pripravená na Váš prechod štátnymi hranicami.
+           </strong>
+          </li>
+         </ul>
+         <div class="govuk-inset-text">
+          <p>
+           V prípade
+           <strong>
+            problémov s aplikáciou
+           </strong>
+           je potrebné opätovne
+           <strong>
+            kliknúť na link v SMS,
+           </strong>
+           ktorý ste použili pre prvotné stiahnutie aplikácie! Link zabezpečuje najaktuálnejšiu verziu aplikácie!
+          </p>
+         </div>
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            Aplikáciu je potrebné pravidelne aktualizovať! Aktualizáciu zabezpečíte kliknutím na link v SMS, ktorý ste použili pre prvotné stiahnutie aplikácie alebo v Google Play či App Store.
+           </p>
+          </strong>
+         </div>
+         <details class="govuk-details" data-module="govuk-details">
+          <summary class="govuk-details__summary">
+           <span aria-label="Ako v nastaveniach telefónu udeliť aplikácii potrebné povolenia?" aria-level="3" class="govuk-details__summary-text" role="heading">
+            Ako v nastaveniach telefónu udeliť aplikácii potrebné povolenia?
+           </span>
+          </summary>
+          <div class="govuk-details__text">
+           <p>
+            Pri prvom zapnutí po inštalácií Vás aplikácia sama vyzve na udelenie potrebných povolení – stačí zakaždým stlačiť „áno“.
+           </p>
+           <p>
+            Ak by sa to z rozličných dôvodov nepodarilo, tieto povolenia jej viete udeliť aj prostredníctvom nastavení Vášho telefónu. Ako na to?
+           </p>
+           <p>
+            <strong>
+             ANDROID
+            </strong>
+           </p>
+           <ol>
+            <li>
+             <span class="SpellingError SCXO249204255 BCX0">
+              Otvorte nastavenia.
+             </span>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+             </span>
+            </li>
+            <li>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+              Zvoľte „
+             </span>
+             <span class="SpellingError SCXO249204255 BCX0">
+              Aplikácie
+             </span>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+              &amp;
+             </span>
+             <span class="SpellingError SCXO249204255 BCX0">
+              oznámenia“.
+             </span>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+             </span>
+            </li>
+            <li>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+              Zvoľte
+              <span class="SpellingError SCXO249204255 BCX0">
+               „
+              </span>
+             </span>
+             <span class="SpellingError SCXO249204255 BCX0">
+              Povolenia“
+             </span>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+              .
+             </span>
+            </li>
+            <li>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+              Vyberte, pre akú funkcionalitu chcete udeliť aplikácií povolenia (Kamera /
+             </span>
+             <span class="SpellingError SCXO249204255 BCX0">
+              Vaša
+             </span>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+             </span>
+             <span class="SpellingError SCXO249204255 BCX0">
+              poloha).
+             </span>
+            </li>
+            <li>
+             <span class="SpellingError SCXO249204255 BCX0">
+              V zozname aplikácií nájdite eKaranténa a zvoľte povoliť.
+             </span>
+            </li>
+           </ol>
+           <p>
+            <strong>
+             iOS (Apple)
+            </strong>
+           </p>
+           <ol>
+            <li>
+             <span class="SpellingError SCXO249204255 BCX0">
+              Otvorte nastavenia.
+             </span>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+             </span>
+            </li>
+            <li>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+              Vyberte aplikáciu eKaranténa.
+             </span>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+             </span>
+            </li>
+            <li>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+              Vyberte, pre akú funkcionalitu chcete udeliť aplikácií povolenia (Kamera /
+             </span>
+             <span class="SpellingError SCXO249204255 BCX0">
+              Vaša
+             </span>
+             <span class="NormalTextRun SCXO249204255 BCX0">
+             </span>
+             <span class="SpellingError SCXO249204255 BCX0">
+              poloha)
+             </span>
+             <span class="SpellingError SCXO249204255 BCX0">
+              a guličku posuňte doprava.
+             </span>
+            </li>
+           </ol>
+          </div>
+         </details>
+        </div>
+       </div>
+       <div class="govuk-accordion__section">
+        <div class="govuk-accordion__section-header">
+         <h2 class="govuk-accordion__section-heading">
+          <span class="govuk-accordion__section-button" id="potrebne-dokumenty">
+           4. Ďalšie potrebné dokumenty
+          </span>
+         </h2>
+        </div>
+        <div aria-labelledby="potrebne-dokumenty" class="govuk-accordion__section-content" id="potrebne-dokumenty">
+         <p class="govuk-body">
+          Na prechod štátnou hranicou budete okrem registrácie a aktívnej aplikácie eKaranténa potrebovať aj podpísané 2 dokumenty.
+          <strong>
+           Vytlačte a podpíšte oba dokumenty 2x ešte pred príchodom na hranice.
+          </strong>
+         </p>
+         <p class="govuk-body">
+          Jedná sa o
+          <strong>
+           Čestné prehlásenie
+          </strong>
+          a
+          <strong>
+           Súhlas s podrobením sa nariadenej izolácie v domácom prostredí za použitia mobilnej aplikácie
+          </strong>
+          .
+         </p>
+         <a class="govuk-button govuk-!-margin-right-3 govuk-button--secondary" data-module="govuk-button" draggable="false" href="https://korona.gov.sk/wp-content/uploads/2020/05/cestn-prehl-senie_smartkarant-na.pdf" role="button" target="_self">
+          Čestné prehlásenie (PDF, 55 kB)
+         </a>
+         <a class="govuk-button govuk-!-margin-right-3 govuk-button--secondary" data-module="govuk-button" draggable="false" href="https://korona.gov.sk/wp-content/uploads/2020/05/s-hlas_smartkarant-na.pdf" role="button" target="_self">
+          Súhlas s domácou izoláciou (PDF, 236 kB)
+         </a>
+        </div>
+       </div>
+       <div class="govuk-accordion__section">
+        <div class="govuk-accordion__section-header">
+         <h2 class="govuk-accordion__section-heading">
+          <span class="govuk-accordion__section-button" id="prechod-hranicami">
+           5. Prechod štátnymi hranicami
+          </span>
+         </h2>
+        </div>
+        <div aria-labelledby="prechod-hranicami" class="govuk-accordion__section-content" id="prechod-hranicami">
+         <h3 class="govuk-heading-l">
+          Čo sa udeje na štátnej hranici?
+         </h3>
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            Príchod na štátnu hranicu si naplánujte v čase medzi 08:00-18:00 hod. (7 dní v týždni). Je to čas, v ktorom Vás budú vedieť vybaviť príslušníci polície. Mimo tohto času nebude zabezpečená technická podpora.
+           </p>
+          </strong>
+         </div>
+         <p class="govuk-body">
+          V prípade, ak idete do domácej izolácie, musíte si zabezpečiť individuálnu dopravu. Preferovaným
+          <strong>
+           dopravným prostriedkom
+          </strong>
+          na prekročenie štátnej hranice je
+          <strong>
+           auto
+          </strong>
+          . Máte tri možnosti:
+         </p>
+         <p class="govuk-body">
+          <strong>
+           A.
+          </strong>
+          Hranicu prekročíte v aute a pokračujete ním rovno do miesta domácej izolácie.
+         </p>
+         <p class="govuk-body">
+          <strong>
+           B.
+          </strong>
+          Dopravíte sa na hranicu inak (autobus, taxi, peši). Na hranicu pre Vás príde autom člen Vašej domácnosti. Je to človek, ktorý spolu s Vami absolvuje povinnú domácu izoláciu.
+         </p>
+         <p class="govuk-body">
+          <strong>
+           C.
+          </strong>
+          Dopravíte sa na hranicu inak (autobus, taxi, peši). Na hranicu pre Vás príde autom iná osoba (môže byť aj taxi), ktorá nie je členom domácnosti a nenastupuje s Vami do domácej izolácie, ale táto osoba musí byť počas celého presunu chránená bezventilovým respirátorom FFP2/KN95.
+         </p>
+         <h3 class="govuk-heading-l">
+          Ako bude prebiehať hraničná kontrola?
+         </h3>
+         <ol class="govuk-list govuk-list--number">
+          <li>
+           <span style="font-weight: 400">
+            Po príchode na hranicu príslušníkovi polície predložíte doklad totožnosti.
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            Príslušník Vás požiada, aby ste spustili aplikáciu
+           </span>
+           <span style="font-weight: 400">
+            a na jej odomknutie použili biometrické rozpoznávanie tváre.
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            Aplikácia eKaranténa
+           </span>
+           <span style="font-weight: 400">
+            Vám zobrazí Váš COVID-19-PASS, ktorý predložíte príslušníkovi polície.
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            Príslušník naskenuje COVID-19-PASS svojím mobilným telefónom a overí oprávnenie na vstup. Oprávnenie na vstup môže v niektorých prípadoch overiť aj vysielačkou s operačným strediskom policajného zboru.
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            Príslušník skontrolujte a porovná údaje z Vášho dokladu totožnosti s údajmi zobrazenými v aplikácii. V prípade, že údaje súhlasia, potvrdí overenie a nadiktuje Vám 4−miestne číslo, ktoré zadáte prostredníctvom
+           </span>
+           <span style="font-weight: 400">
+            možnosti „Zadať výzvu“
+           </span>
+           <span style="font-weight: 400">
+            do svojej aplikácie
+           </span>
+           <span style="font-weight: 400">
+            eKaranténa
+           </span>
+           <span style="font-weight: 400">
+            .
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            Aplikácia
+           </span>
+           <span style="font-weight: 400">
+            vygeneruje odpoveď vo forme  6−miestneho čísla, ktoré poskytnete príslušníkovi polície.
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            Príslušník polície overí prostredníctvom tohto čísla Vaše oprávnenie na vstup. V prípade, ak je číslo správne, príslušník polície Vám povolí vstup na územie SR s aktivovanou domácou izoláciu
+           </span>
+           <span style="font-weight: 400">
+            .
+           </span>
+          </li>
+          <li>
+           Príslušník polície Vám dá podpísať Čestné vyhlásenie a Súhlas s podrobením sa nariadenia izolácie v domácom prostredí za použitia mobilnej aplikácie. V prípade ak ste si tieto dokumenty pripravili vopred skrátite si tak čas vybavenia (nezabudnite každý dokument musíte mať vytlačený a podpísaný 2x).
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            V prípade, že ste neprišli na hranice autom, môže príslušník polície skontroluje, či pre Vás niekto autom prišiel.
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            Aktivovaná domáca izolácia znamená, že od tohto momentu Vám začína plynúť povinnosť bezodkladne a
+           </span>
+           najkratšou cestou sa dopraviť na adresu zvoleného miesta domácej izolácie. Cestou sa zdržujte sociálnych kontaktov, nesmiete sa nikde zastavovať, nakupovať a podobne.
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            O aktivácii domácej izolácie Vás bude informovať aj
+           </span>
+           <span style="font-weight: 400">
+            notifikácia
+           </span>
+           <span style="font-weight: 400">
+            . (V prípade nedostatočného signálu dostanete notifikáciu hneď, ako sa signál obnoví. Čas na presun do mieste domácej karantény, ale začína plynúť prechodom hranice).
+           </span>
+          </li>
+         </ol>
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            Ak je v aute s Vami viac osôb (okrem detí do 16 rokov), je potrebné, aby boli všetci zaregistrovaní a mali nainštalovanú aplikáciu eKaranténa.
+           </p>
+          </strong>
+         </div>
+         <div class="govuk-inset-text">
+          <p>
+           <strong>
+            V prípade akýchkoľvek problémov
+           </strong>
+           (nemožnosť overenia prostredníctvom aplikácie, nemožnosť aktivácie aplikácie príslušníkom polície),
+           <strong>
+            ste povinní absolvovať štandardnú štátnu karanténu v príslušnom zariadení.
+           </strong>
+          </p>
+         </div>
+         <h3 class="govuk-heading-l">
+          Presun do domácej izolácie
+         </h3>
+         <p class="govuk-body">
+          Ak všetko prebehlo v poriadku a príslušník polície Vám povolil vstup, je Vašou povinnosťou bezodkladne sa presunúť na zvolené miesto domácej izolácie. Pripomíname, že na presun máte 8 hodín od aktivácie domácej izolácie.
+         </p>
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            <strong>
+             Na miesto domácej izolácie nesmiete cestovať verejnými dopravnými prostriedkami (autobus, električka, vlak atď.).
+            </strong>
+           </p>
+          </strong>
+         </div>
+         <p class="govuk-body">
+          <strong>
+           Pripomíname, že ak pre Vás na hranice niekto prišiel autom, táto osoba musí byť počas celého presunu chránená bezventilovým respirátorom FFP2/KN95, alebo sa musí následne podrobiť 14- dennej domácej izolácii spolu s Vami.
+          </strong>
+         </p>
+        </div>
+       </div>
+       <div class="govuk-accordion__section">
+        <div class="govuk-accordion__section-header">
+         <h2 class="govuk-accordion__section-heading">
+          <span class="govuk-accordion__section-button" id="poybt-v-domacej-karantene">
+           6. Pobyt v domácej izolácii
+          </span>
+         </h2>
+        </div>
+        <div aria-labelledby="poybt-v-domacej-karantene" class="govuk-accordion__section-content" id="poybt-v-domacej-karantene">
+         <h3 class="govuk-heading-m">
+          Čo musíte dodržať?
+         </h3>
+         <p class="govuk-body">
+          Váš mobilný telefón počas domácej izolácie:
+         </p>
+         <ol class="govuk-list govuk-list--number">
+          <li>
+           <span style="font-weight: 400">
+            musí byť
+           </span>
+           nepretržite zapnutý,
+           <span style="font-weight: 400">
+           </span>
+          </li>
+          <li>
+           nesmie byť
+           <span style="font-weight: 400">
+            zapnutý
+           </span>
+           letový režim
+           <span style="font-weight: 400">
+            ,
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            musí byť
+           </span>
+           nepretržite pripojený na internet
+           <span style="font-weight: 400">
+            .
+           </span>
+          </li>
+          <li>
+           musí mať aktívnu aplikáciu (ponechajte ju v aktívnom stave),
+          </li>
+          <li>
+           umožniť automatickú aktualizáciu mobilnej aplikácie na monitorovanie dodržiavania domácej izolácie,
+          </li>
+          <li>
+           povoliť mobilnému zariadeniu lokálne uložiť odfotografovanú podobizeň tváre používateľa mobilnej aplikácie na monitorovanie dodržiavania nariadenej izolácie,
+          </li>
+          <li>
+           musí mať zapnuté a povolené určovanie polohy (známe ako GPS),
+          </li>
+          <li>
+           musí mať nepretržite povolené prijímanie notifikácií (vrátane SMS) na mobilnom zariadení,
+          </li>
+          <li>
+           povolené používanie kamery pre účely rozpoznanie biometrie tváre, technologicky to bude zabezpečené priamo pomocou aplikácie eKaranténa (tzn. rozpoznanie tváre sa udeje prostredníctvom kamery a aplikácie eKaranténa, nemusíte mať smartfón, ktorý podporuje rozpoznanie biometrie tváre, napríklad iPhone s Face ID technológiou, stačí kamera),
+          </li>
+          <li>
+           <strong>
+            aplikáciu eKaranténa pravidelne aktualizujte!
+           </strong>
+          </li>
+         </ol>
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            <b>
+             Aplikáciu počas domácej izolácie nikdy nevymažte, ponechajte ju nainštalovanú. Opätovná inštalácia nie je možná!
+            </b>
+           </p>
+          </strong>
+         </div>
+         <h3 class="govuk-heading-m">
+          Ako sa uistiť, že aplikácia eKaranténa nasníma biometriu Vašej tváre správne:
+         </h3>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           držte telefón po celý čas vo výške očí,
+          </li>
+          <li>
+           snažte sa otočiť tvárou k zdroju svetla, nestojte chrbtom k oknu, aby ste nemali svetlo oproti Vám, ani nestojte priamo pod lampou, môžu spôsobovať tiene v tvári,
+          </li>
+          <li>
+           pokiaľ okuliare vytvárajú silnú reflexiu a zlyháva overenie, je vhodné si dať okuliare dole,
+          </li>
+          <li>
+           sledujte očami modrý alebo čierny bod na obrazovke,
+          </li>
+          <li>
+           prižmúrené oči môžu spôsobovať zlyhávanie overenia,
+          </li>
+          <li>
+           telefón držte po celý čas v jednej pozícii pokiaľ neprejdete celým procesom snímania tváre.
+          </li>
+         </ul>
+         <p class="govuk-body">
+          <strong>
+           <span style="color:#DF3034">
+            Počas 14-tich dní domácej izolácie nemôžete opustiť svoju domácnosť
+           </span>
+          </strong>
+          a ste povinní zdržiavať sa len vo Vami určenom mieste domácej izolácie, zdržať sa sociálnych kontaktov, zdržať sa akýchkoľvek činností, ktoré si vyžadujú opustiť miesto domácej izolácie alebo prijímať v mieste izolácie osoby mimo Vašej domácej izolácie.
+         </p>
+         <p class="govuk-body">
+          Zároveň máte povinnosť sledovať svoj zdravotný stav (náhly nástup aspoň jedného z týchto príznakov: horúčka, kašeľ, dýchavičnosť) a v prípade objavenia sa príznakov bez meškania telefonicky kontaktovať ošetrujúceho lekára a územne príslušný regionálny úrad verejného zdravotníctva.
+         </p>
+        </div>
+       </div>
+       <div class="govuk-accordion__section">
+        <div class="govuk-accordion__section-header">
+         <h2 class="govuk-accordion__section-heading">
+          <span class="govuk-accordion__section-button" id="testovanie">
+           7. Test na COVID-19
+          </span>
+         </h2>
+        </div>
+        <div aria-labelledby="testovanie" class="govuk-accordion__section-content" id="testovanie">
+         <p class="govuk-body">
+          Súčasťou domácej izolácie je tiež povinnosť absolvovať test na COVID-19. Test budete absolvovať zvyčajne najskôr na 5. deň domácej izolácie.
+         </p>
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            Povinnosť zotrvať 14 dní v domácej izolácii trvá kvôli inkubačnej dobe vírusu aj keď máte na 5. deň negatívny výsledok .
+           </p>
+          </strong>
+         </div>
+         <p class="govuk-body">
+          Za účelom testovania na COVID-19 Vás bude v priebehu niekoľkých dní po nastúpení do domácej izolácie kontaktovať pracovník Regionálneho úradu verejného zdravotníctva alebo
+          <strong>
+           Vás vyzve aplikácia eKaranténa, aby ste sa objednali na test sami.
+          </strong>
+          Ak budete kontaktovaní pracovníkom Regionálneho úradu verejného zdravotníctva, s pracovníkom si dohodnete telefonicky miesto a spôsob vykonania testu podľa Vašich možností.
+         </p>
+         <p class="govuk-body">
+          <strong>
+           Objednať sa naň môžete už na 3. deň v domácej izolácii.
+          </strong>
+         </p>
+         <a class="govuk-button govuk-!-margin-right-3" data-module="govuk-button" draggable="false" href="https://korona.gov.sk/poziadat-o-vysetrenie-na-covid-19/" role="button" target="_self">
+          Objednajte sa na test
+         </a>
+         <p class="govuk-body">
+          V prípade, že na testovanie na COVID-19 využijete odberné miesto, tzn. dopravíte sa vlastným autom a
+          <strong>
+           odber absolvujete priamo z auta cez okienko
+          </strong>
+          (tzv. drive through odberné miesto),
+          <strong>
+           táto cesta sa nebude vnímať ako porušenie podmienok domácej izolácie
+          </strong>
+          .
+         </p>
+        </div>
+       </div>
+       <div class="govuk-accordion__section">
+        <div class="govuk-accordion__section-header">
+         <h2 class="govuk-accordion__section-heading">
+          <span class="govuk-accordion__section-button" id="porusenie-karanteny">
+           8. Porušenie domácej izolácie
+          </span>
+         </h2>
+        </div>
+        <div aria-labelledby="porusenie-karanteny" class="govuk-accordion__section-content" id="porusenie-karanteny">
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            <strong>
+             Dodržujte domácu izoláciu! Aplikácia eKaranténa bude náhodne niekoľko krát denne požadovať biometriu tváre, nereagovanie sa bude považovať za možné porušenie domácej izolácie.
+            </strong>
+           </p>
+          </strong>
+         </div>
+         <p class="govuk-body">
+          V dodržiavaní podmienok domácej izolácie Vám
+          <strong>
+           pomáha aplikácia eKaranténa
+          </strong>
+          . Aplikácia je určená na to, aby s Vami komunikovala počas domácej izolácie. To platí aj pri porušení domácej izolácie.
+          <strong>
+           Aplikácia eKaranténa vyhodnocuje Vaše správanie
+          </strong>
+          a pokiaľ zaznamená podozrenie z porušovania, automaticky o tom upovedomí pracovníkov Regionálneho úradu verejného zdravotníctva.
+         </p>
+         <h3 class="govuk-heading-m">
+          Čo sa rozumie porušením domácej izolácie?
+         </h3>
+         <ul class="govuk-list govuk-list--bullet">
+          <li>
+           <span style="font-weight: 400">
+            opustenie miesta určeného na domácu izoláciu,
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            nastavenie režimu lietadla na telefóne,
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            odinštalovanie aplikácie,
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            vypnutie telefónu,
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            systémovo vypnuté sledovanie polohy telefónu,
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            vypnutie mobilných dát alebo wifi,
+           </span>
+          </li>
+          <li>
+           <span style="font-weight: 400">
+            nereagovanie na výzvu aplikácie – overiť sa prostredníctvom rozpoznania biometrie tváre,
+           </span>
+          </li>
+          <li>
+           výber miesta domácej izolácie mimo mobilného signálu,
+          </li>
+          <li>
+           manipulácia s GPS polohou alebo s aplikáciou.
+          </li>
+         </ul>
+         <p class="govuk-body">
+          V prípade porušenia podmienok domácej izolácie Vás na porušenie upozorní aplikácia, zároveň dostanete aj výstražnú SMS. Táto SMS sa zasiela aj preto, aby Vás výstraha zastihla, ak by sa Vám minuli mobilné dáta, nefungovala Wi-Fi a podobne.
+         </p>
+         <div class="govuk-warning-text">
+          <span aria-hidden="true" class="govuk-warning-text__icon">
+           !
+          </span>
+          <strong class="govuk-warning-text__text">
+           <span class="govuk-warning-text__assistive">
+            Upozornenie
+           </span>
+           <p>
+            <strong>
+             Za nerešpektovanie podmienok domácej izolácie môže Úrad verejného zdravotníctva uložiť pokutu podľa § 56 ods. 2 zákona č. 355/2007 Z. z. vo výške do 1659 eur. Rovnako aj orgány Policajného zboru a obecnej polície môžu uložiť blokovú pokutu vo výške do 1000 €.
+            </strong>
+           </p>
+          </strong>
+         </div>
+        </div>
+       </div>
+       <div class="govuk-accordion__section">
+        <div class="govuk-accordion__section-header">
+         <h2 class="govuk-accordion__section-heading">
+          <span class="govuk-accordion__section-button" id="ukoncenie-karanteny">
+           9. Ukončenie domácej izolácie
+          </span>
+         </h2>
+        </div>
+        <div aria-labelledby="ukoncenie-karanteny" class="govuk-accordion__section-content" id="ukoncenie-karanteny">
+         <p class="govuk-body">
+          <strong>
+           Ak nie ste pozitívne testovaní, po 14 dňoch sa Vaša domáca izolácia končí a aplikácia sa automaticky vypne.
+          </strong>
+          Ďalej Vás už nemonitoruje.
+         </p>
+         <p class="govuk-body">
+          <strong>
+           Ak ste pozitívne testovaní na COVID-19
+          </strong>
+          , lekár alebo hygienik určí ďalší postup. Vaša aplikácia eKaranténa zostáva naďalej aktívna. V prípade mierneho priebehu ochorenia zostanete doma, v prípade zhoršenia zdravotného stavu budete hospitalizovaní (podľa štandardných postupov). Po uplynutí 14 dní Vám test na COVID-19 zopakujú.
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="govuk-inset-text">
+       <p>
+        V prípade, že potrebujete pomôcť s vypĺňaním formuláru alebo ak potrebujete doplňujúce informácie k domácej izolácii.
+       </p>
+       <p>
+        Volajte na
+        <a class="govuk-link" href="tel:0800221234">
+         0800 221 234
+        </a>
+        alebo na
+        <a href="tel:*0123">
+         *0123
+        </a>
+       </p>
+       <p>
+        Zo zahraničia
+        <a class="govuk-link" href="tel:+421222113333">
+         +421 222 113 333
+        </a>
+       </p>
+      </div>
+      <p class="govuk-body">
+       <a href="https://korona.gov.sk/wp-content/uploads/2020/05/opatrenie_chytra_karantena_statne_zariadenia2.pdf">
+        Opatrenie ohľadne prechodu zo štátnej karantény do domácej izolácie s využitím aplikácie eKarantény zo dňa 25. mája 2020 (PDF, 111 kB)
+       </a>
+       .
+      </p>
+      <p class="govuk-body">
+       Prečítajte si
+       <a href="https://korona.gov.sk/wp-content/uploads/2020/05/chytra_a_statna_karantena_22_05.pdf">
+        Opatrenie ohľadne smart karantény a karantény zo dňa 22. mája 202 (PDF, 142, kB)
+       </a>
+       .
+      </p>
+     </div>
+    </div>
+   </div>
+  </main>
+  <footer class="idsk-footer" role="contentinfo">
+   <div class="govuk-width-container">
+    <div class="idsk-footer__meta">
+     <div class="idsk-footer__meta-item">
+      <a class="idsk-footer__link" href="https://www.vicepremier.gov.sk/" title="">
+       <svg class="idsk-footer__licence-logo" focusable="false" height="47" role="presentation" viewbox="6.928 373.78 585.422 94.596" width="218" xmlns="http://www.w3.org/2000/svg">
+        <g>
+         <path d="M41.835,467.576c-14.39-6.928-34.906-20.519-34.906-47.697c0-26.913,1.331-39.437,1.331-39.437h67.149
+              c0,0,1.332,12.257,1.332,39.437C76.475,447.059,55.957,460.648,41.835,467.576" fill="#ED1C24">
+         </path>
+         <path d="M44.766,412.951c3.997,0,11.458,0.267,18.118-2.132c0,0-0.266,2.397-0.266,5.329s0.266,5.328,0.266,5.328
+              c-6.128-2.131-13.854-2.131-18.118-2.131v14.922h-6.129v-14.922c-4.264,0-11.99,0-18.119,2.131c0,0,0.267-2.396,0.267-5.328
+              s-0.267-5.329-0.267-5.329c6.661,2.132,14.389,2.132,18.119,2.132v-9.593c-3.465,0-8.526,0.267-14.39,2.132
+              c0,0,0.268-2.398,0.268-5.329c0-2.933-0.268-5.33-0.268-5.33c5.862,1.865,10.925,2.131,14.39,2.131
+              c-0.268-5.862-1.865-13.323-1.865-13.323s3.464,0.267,5.063,0.267c1.332,0,5.063-0.267,5.063-0.267s-1.865,7.461-1.865,13.323
+              c3.464,0,8.526-0.266,14.389-2.131c0,0-0.267,2.397-0.267,5.33c0,2.931,0.267,5.329,0.267,5.329
+              c-6.128-1.865-11.19-2.132-14.654-2.132L44.766,412.951L44.766,412.951z" fill="#FFFFFF">
+         </path>
+         <path d="M41.835,467.576c9.061-4.265,20.519-11.458,27.979-22.916c-1.865-3.197-4.797-6.928-8.794-6.928
+              c-5.861,0-7.993,4.796-7.993,4.796s-3.997-9.858-11.191-9.858s-11.19,10.125-11.19,10.125s-2.132-4.796-7.994-4.796
+              c-3.997,0-6.929,3.464-8.794,6.928C21.051,456.118,32.775,463.313,41.835,467.576" fill="#0055A1">
+         </path>
+         <rect fill="#0055A1" height="29.044" width="3.464" x="101.523" y="409.754">
+         </rect>
+         <rect fill="#ED1C24" height="29.045" width="3.464" x="101.523" y="438.531">
+         </rect>
+         <rect fill="#D1D3D4" height="29.045" width="3.464" x="101.523" y="380.442">
+         </rect>
+         <path d="M147.621,374.314c0,0.267-0.267,0.533-3.198,3.73c-0.267,0.267-0.799,0.799-2.132,0.799
+              c-0.799,0-0.799,0-0.799-0.533c0-0.267,0.533-1.066,1.865-3.73c0.267-0.533,1.332-0.533,2.397-0.533
+              C147.088,374.047,147.621,374.047,147.621,374.314 M152.417,381.508v14.389c0,4.796-3.464,7.728-9.06,7.728
+              c-5.862,0-9.061-2.932-9.061-7.728v-14.389c0-0.533,0.532-0.799,1.6-0.799h0.799c1.066,0,1.6,0.267,1.6,0.799v14.123
+              c0,2.398,2.131,4.264,5.063,4.264c2.931,0,5.063-1.864,5.063-4.264v-14.123c0-0.533,0.533-0.799,1.6-0.799h0.8
+              C151.884,380.709,152.417,380.976,152.417,381.508" fill="#0055A1">
+         </path>
+         <path d="M161.477,384.173v6.129h3.464c1.6,0,3.198-1.333,3.198-3.198s-1.333-2.931-3.198-2.931H161.477z
+              M172.403,386.571c0,2.665-1.6,4.263-3.731,5.329l0,0c1.066,0.267,1.865,1.599,2.665,3.464l2.665,6.928
+              c0,0.266,0.268,0.532,0.268,0.532c0,0.267-0.533,0.533-1.865,0.533h-1.066c-0.8,0-1.599-0.268-1.599-0.533l-2.398-6.395
+              c-0.799-1.599-1.599-2.398-3.729-2.398h-1.865v8.261c0,0.532-0.533,0.799-1.599,0.799h-0.8c-1.065,0-1.6-0.267-1.6-0.799v-20.518
+              c0-0.799,0.268-1.066,1.066-1.066h5.861C169.738,380.709,172.403,382.574,172.403,386.571" fill="#0055A1">
+         </path>
+         <path d="M184.126,385.505c0,0.799-0.267,1.333-0.531,2.132l-2.398,6.928h5.862l-2.398-7.194
+              C184.393,386.838,184.393,386.305,184.126,385.505L184.126,385.505z M186.525,381.242l7.194,20.784c0,0.267,0,0.267,0,0.531
+              c0,0.268-0.532,0.533-1.6,0.533h-1.064c-0.801,0-1.601-0.267-1.601-0.533l-1.599-4.528h-8.26l-1.066,4.796
+              c-0.267,0.533-0.799,0.533-1.332,0.533h-0.8c-1.065,0-1.865-0.268-1.865-0.533c0-0.267,0-0.268,0-0.532l7.195-20.785
+              c0.266-0.533,0.799-0.533,1.599-0.533h1.332C185.725,380.709,186.525,380.709,186.525,381.242" fill="#0055A1">
+         </path>
+         <path d="M200.913,384.173v15.455h3.73c3.729,0,5.861-2.397,5.861-7.728c0-5.33-2.396-7.728-5.861-7.728
+              L200.913,384.173L200.913,384.173z M215.036,391.9c0,7.728-3.997,11.191-10.126,11.191h-6.928c-0.8,0-1.065-0.267-1.065-1.064
+              v-20.251c0-0.799,0.267-1.066,1.065-1.066h6.928C211.039,380.709,215.036,384.173,215.036,391.9" fill="#0055A1">
+         </path>
+         <path d="M230.758,384.173v6.396h3.73c1.332,0,3.197-0.533,3.197-3.198s-1.865-3.198-3.464-3.198H230.758z
+              M241.949,387.371c0,6.129-5.329,6.928-7.194,6.928h-3.997v7.994c0,0.532-0.532,0.799-1.599,0.799h-0.8
+              c-1.066,0-1.599-0.267-1.599-0.799v-20.518c0-0.799,0.267-1.066,1.064-1.066h6.662
+              C237.419,380.709,241.949,381.508,241.949,387.371" fill="#0055A1">
+         </path>
+         <path d="M248.611,391.9c0,5.063,2.132,7.994,5.862,7.994c3.729,0,5.861-2.665,5.861-7.994
+              c0-5.063-2.132-7.994-5.861-7.994C250.476,384.173,248.611,386.838,248.611,391.9 M264.599,391.9
+              c0,7.461-3.73,11.458-10.126,11.458c-6.661,0-10.126-3.997-10.126-11.458c0-7.461,3.729-11.458,10.126-11.458
+              C260.869,380.442,264.599,384.439,264.599,391.9" fill="#0055A1">
+         </path>
+         <path d="M272.859,384.173v15.455h3.729c3.73,0,5.862-2.397,5.862-7.728c0-5.33-2.396-7.728-5.862-7.728
+              L272.859,384.173L272.859,384.173z M286.982,391.9c0,7.728-3.997,11.191-10.126,11.191h-6.928c-0.801,0-1.066-0.267-1.066-1.064
+              v-20.251c0-0.799,0.267-1.066,1.066-1.066h6.928C282.985,380.709,286.982,384.173,286.982,391.9" fill="#0055A1">
+         </path>
+         <path d="M295.242,384.173v6.396h3.73c1.332,0,3.196-0.533,3.196-3.198s-1.864-3.198-3.464-3.198H295.242z
+              M306.433,387.371c0,6.129-5.329,6.928-7.194,6.928h-3.996v7.994c0,0.532-0.533,0.799-1.6,0.799h-0.799
+              c-1.066,0-1.6-0.267-1.6-0.799v-20.518c0-0.799,0.267-1.066,1.065-1.066h6.662C301.637,380.709,306.433,381.508,306.433,387.371" fill="#0055A1">
+         </path>
+         <path d="M313.629,384.173v6.129h3.464c1.599,0,3.196-1.333,3.196-3.198s-1.332-2.931-3.196-2.931H313.629z
+              M324.553,386.571c0,2.665-1.6,4.263-3.73,5.329l0,0c1.065,0.267,1.865,1.599,2.664,3.464l2.665,6.928
+              c0,0.266,0.268,0.532,0.268,0.532c0,0.267-0.533,0.533-1.865,0.533h-1.066c-0.799,0-1.599-0.268-1.599-0.533l-2.398-6.395
+              c-0.799-1.599-1.599-2.398-3.729-2.398h-1.865v8.261c0,0.532-0.532,0.799-1.599,0.799h-0.8c-1.065,0-1.599-0.267-1.599-0.799
+              v-20.518c0-0.799,0.266-1.066,1.065-1.066h5.861C322.155,380.709,324.553,382.574,324.553,386.571" fill="#0055A1">
+         </path>
+         <path d="M342.939,382.042v0.799c0,1.066-0.267,1.332-0.8,1.332h-8.526v5.862h7.729c0.532,0,0.799,0.533,0.799,1.333
+              v0.799c0,1.066-0.267,1.333-0.799,1.333h-7.729v6.128h8.526c0.533,0,0.8,0.533,0.8,1.332v0.8c0,1.065-0.267,1.332-0.8,1.332
+              h-11.725c-0.8,0-1.065-0.267-1.065-1.064v-20.251c0-0.799,0.267-1.066,1.065-1.066h11.725
+              C342.673,380.709,342.939,381.242,342.939,382.042" fill="#0055A1">
+         </path>
+         <path d="M350.933,384.173v15.455h3.729c3.73,0,5.862-2.397,5.862-7.728c0-5.33-2.397-7.728-5.862-7.728
+              L350.933,384.173L350.933,384.173z M365.055,391.9c0,7.728-3.997,11.191-10.125,11.191h-6.929c-0.8,0-1.065-0.267-1.065-1.064
+              v-20.251c0-0.799,0.267-1.066,1.065-1.066h6.929C361.058,380.709,365.055,384.173,365.055,391.9" fill="#0055A1">
+         </path>
+         <path d="M381.044,382.574c0,0.799-0.801,2.398-1.6,2.398c-0.533,0-1.599-1.066-3.729-1.066
+              c-2.398,0-3.464,1.066-3.464,2.398c0,1.865,1.864,2.665,3.729,3.464c2.664,1.066,5.861,2.398,5.861,6.662
+              c0,4.795-3.464,6.662-7.194,6.662c-4.529,0-7.194-1.599-7.194-2.664c0-0.8,1.065-2.397,1.6-2.397s2.132,1.599,5.063,1.599
+              c1.865,0,3.464-0.8,3.464-2.931c0-2.132-2.397-2.931-4.797-3.997c-2.396-1.066-4.796-2.398-4.796-6.395
+              c0-4.263,3.464-6.395,7.461-6.395C378.379,380.442,381.044,381.508,381.044,382.574" fill="#0055A1">
+         </path>
+         <path d="M398.896,382.042v0.799c0,1.066-0.266,1.332-0.799,1.332h-8.527v5.862h7.729c0.532,0,0.8,0.533,0.8,1.333
+              v0.799c0,1.066-0.268,1.333-0.8,1.333h-7.729v6.128h8.527c0.533,0,0.799,0.533,0.799,1.332v0.8c0,1.065-0.266,1.332-0.799,1.332
+              h-11.726c-0.8,0-1.064-0.267-1.064-1.064v-20.251c0-0.799,0.267-1.066,1.064-1.066h11.726
+              C398.631,380.709,398.896,381.242,398.896,382.042" fill="#0055A1">
+         </path>
+         <path d="M407.156,384.173v15.455h3.73c3.729,0,5.861-2.397,5.861-7.728c0-5.33-2.397-7.728-5.861-7.728
+              L407.156,384.173L407.156,384.173z M421.28,391.9c0,7.728-3.997,11.191-10.126,11.191h-6.928c-0.8,0-1.066-0.267-1.066-1.064
+              v-20.251c0-0.799,0.268-1.066,1.066-1.066h6.928C417.282,380.709,421.28,384.173,421.28,391.9" fill="#0055A1">
+         </path>
+         <path d="M443.396,381.508v14.389c0,4.796-3.464,7.728-9.06,7.728c-5.862,0-9.062-2.932-9.062-7.728v-14.389
+              c0-0.533,0.533-0.799,1.601-0.799h0.799c1.065,0,1.599,0.267,1.599,0.799v14.123c0,2.398,2.132,4.264,5.063,4.264
+              c2.931,0,5.063-1.864,5.063-4.264v-14.123c0-0.533,0.533-0.799,1.599-0.799h0.801C442.863,380.709,443.396,380.976,443.396,381.508
+              " fill="#0055A1">
+         </path>
+         <path d="M472.973,381.242c0,0.266,0,0.266,0,0.533l-7.194,20.784c-0.267,0.533-0.8,0.533-1.599,0.533h-1.332
+              c-0.8,0-1.601-0.267-1.601-0.533l-7.193-20.784c0-0.267,0-0.267,0-0.533c0-0.267,0.533-0.533,1.865-0.533h0.8
+              c0.799,0,1.599,0.267,1.599,0.799l4.796,15.188l0.268,1.333l0,0l0.267-1.333l5.063-15.188c0.266-0.533,0.799-0.799,1.599-0.799
+              h0.799C472.441,380.709,472.973,380.976,472.973,381.242" fill="#0055A1">
+         </path>
+         <path d="M480.167,381.508v18.12h7.729c0.533,0,0.8,0.533,0.8,1.332v0.8c0,1.065-0.267,1.332-0.8,1.332H476.97
+              c-0.799,0-1.065-0.267-1.065-1.064v-20.519c0-0.533,0.532-0.799,1.6-0.799h0.799C479.635,380.709,480.167,380.976,480.167,381.508" fill="#0055A1">
+         </path>
+         <path d="M503.35,374.314c0,0.267-0.268,0.533-3.197,3.73c-0.267,0.267-0.8,0.799-2.132,0.799
+              c-0.8,0-0.8,0-0.8-0.533c0-0.267,0.533-1.066,2.132-3.73c0.267-0.533,1.333-0.8,2.398-0.8
+              C502.552,374.047,503.35,374.047,503.35,374.314 M498.821,385.505c0,0.799-0.267,1.333-0.533,2.132l-2.397,7.194h5.862
+              l-2.398-7.194C499.087,386.838,499.087,386.305,498.821,385.505L498.821,385.505z M501.219,381.242l7.193,20.784
+              c0,0.267,0,0.267,0,0.531c0,0.268-0.531,0.533-1.599,0.533h-1.065c-0.8,0-1.599-0.267-1.599-0.533l-1.599-4.528h-8.262
+              l-1.599,4.528c-0.267,0.533-0.8,0.533-1.333,0.533h-0.799c-1.066,0-1.865-0.267-1.865-0.533c0-0.266,0-0.266,0-0.531l7.194-20.784
+              c0.267-0.533,0.8-0.533,1.599-0.533h1.333C500.42,380.709,500.951,380.709,501.219,381.242" fill="#0055A1">
+         </path>
+         <path d="M515.608,384.173v15.455h3.73c3.729,0,5.861-2.397,5.861-7.728c0-5.33-2.397-7.728-5.861-7.728
+              L515.608,384.173L515.608,384.173z M529.464,391.9c0,7.728-3.997,11.191-10.125,11.191h-6.93c-0.799,0-1.064-0.267-1.064-1.064
+              v-20.251c0-0.799,0.267-1.066,1.064-1.066h6.93C525.733,380.709,529.464,384.173,529.464,391.9" fill="#0055A1">
+         </path>
+         <path d="M547.317,380.709c1.332,0,1.865,0.267,1.865,0.533c0,0.266,0,0.533-0.268,0.799l-6.66,10.392v10.125
+              c0,0.533-0.533,0.801-1.601,0.801h-0.799c-1.066,0-1.599-0.268-1.599-0.801v-10.392l-6.662-10.125
+              c-0.268-0.267-0.268-0.533-0.268-0.799c0-0.267,0.533-0.533,1.865-0.533h1.066c0.799,0,1.332,0,1.864,0.533l4.529,7.194l4.53-7.194
+              c0.267-0.533,1.064-0.533,1.865-0.533H547.317z" fill="#0055A1">
+         </path>
+         <path d="M571.299,382.574c0,0.799-0.8,2.398-1.6,2.398c-0.533,0-1.599-1.066-3.729-1.066
+              c-2.398,0-3.464,1.066-3.464,2.398c0,1.865,1.864,2.665,3.729,3.464c2.664,1.066,5.862,2.398,5.862,6.662
+              c0,4.795-3.464,6.662-7.194,6.662c-4.53,0-7.195-1.599-7.195-2.664c0-0.8,1.066-2.397,1.601-2.397c0.532,0,2.131,1.599,5.063,1.599
+              c1.865,0,3.464-0.8,3.464-2.931c0-2.132-2.397-2.931-4.796-3.997c-2.397-1.066-4.797-2.398-4.797-6.395
+              c0-4.263,3.464-6.395,7.461-6.395C568.367,380.442,571.299,381.508,571.299,382.574" fill="#0055A1">
+         </path>
+         <path d="M579.825,384.173v6.129h3.464c1.6,0,3.197-1.333,3.197-3.198s-1.332-2.931-3.197-2.931H579.825z
+              M590.484,386.571c0,2.665-1.599,4.263-3.729,5.329l0,0c1.064,0.267,1.864,1.599,2.665,3.464l2.663,6.928
+              c0,0.266,0.268,0.532,0.268,0.532c0,0.267-0.533,0.533-1.865,0.533h-1.064c-0.801,0-1.6-0.268-1.6-0.533l-2.397-6.395
+              c-0.8-1.599-1.6-2.398-3.73-2.398h-1.865v8.261c0,0.532-0.532,0.799-1.599,0.799h-0.8c-1.065,0-1.599-0.267-1.599-0.799v-20.518
+              c0-0.799,0.267-1.066,1.064-1.066h5.862C588.086,380.709,590.484,382.574,590.484,386.571" fill="#0055A1">
+         </path>
+         <path d="M138.295,416.415v6.396h3.73c1.332,0,3.197-0.532,3.197-3.197c0-2.664-1.865-3.197-3.465-3.197
+              L138.295,416.415L138.295,416.415z M149.487,419.612c0,6.129-5.33,6.929-7.195,6.929h-3.996v7.994c0,0.532-0.532,0.799-1.6,0.799
+              h-0.799c-1.066,0-1.6-0.267-1.6-0.799v-20.52c0-0.799,0.268-1.064,1.065-1.064h6.662
+              C144.956,412.951,149.487,413.751,149.487,419.612" fill="#0055A1">
+         </path>
+         <path d="M156.948,416.415v6.129h3.464c1.6,0,3.197-1.332,3.197-3.197c0-1.864-1.332-2.932-3.197-2.932H156.948z
+              M167.872,418.813c0,2.664-1.599,4.265-3.729,5.329l0,0c1.064,0.268,1.864,1.6,2.664,3.465l2.665,6.929
+              c0,0.266,0.267,0.532,0.267,0.532c0,0.267-0.533,0.532-1.865,0.532h-1.065c-0.8,0-1.6-0.267-1.6-0.532l-2.664-6.396
+              c-0.8-1.599-1.599-2.397-3.729-2.397h-1.865v8.261c0,0.532-0.533,0.799-1.599,0.799h-0.801c-1.064,0-1.599-0.267-1.599-0.799
+              v-20.52c0-0.799,0.267-1.064,1.065-1.064h5.861C165.207,412.951,167.872,414.816,167.872,418.813" fill="#0055A1">
+         </path>
+         <path d="M185.991,414.283v0.8c0,1.065-0.267,1.332-0.799,1.332h-8.527v5.596h7.729c0.532,0,0.8,0.533,0.8,1.332v0.8
+              c0,1.066-0.268,1.332-0.8,1.332h-7.729v6.129h8.527c0.532,0,0.799,0.533,0.799,1.332v0.801c0,1.064-0.267,1.332-0.799,1.332
+              h-11.726c-0.8,0-1.064-0.268-1.064-1.065v-19.985c0-0.799,0.266-1.064,1.064-1.064h11.726
+              C185.725,412.951,185.991,413.218,185.991,414.283" fill="#0055A1">
+         </path>
+         <path d="M201.713,413.751v20.784c0,0.532-0.532,1.064-1.599,1.064h-0.8c-1.065,0-1.6-0.267-1.6-1.064v-20.784
+              c0-0.533,0.533-1.066,1.6-1.066h0.8C201.18,412.951,201.713,413.218,201.713,413.751" fill="#0055A1">
+         </path>
+         <path d="M224.896,413.751v20.784c0,0.532-0.533,0.799-1.6,0.799h-1.065c-0.799,0-1.332,0-1.865-0.799l-8.793-13.59
+              l-0.8-1.333v14.655c0,0.532-0.532,0.8-1.6,0.8h-0.8c-1.064,0-1.599-0.268-1.599-0.8v-20.783c0-0.533,0.533-0.801,1.599-0.801h1.066
+              c0.8,0,1.332,0,1.865,0.801l8.525,13.057l0.8,1.599v-14.389c0-0.533,0.533-0.8,1.6-0.8h0.8
+              C224.363,412.951,224.896,413.218,224.896,413.751" fill="#0055A1">
+         </path>
+         <path d="M246.745,413.484c0,0.267,0,0.267,0,0.531l-7.194,20.784c-0.267,0.533-0.8,0.533-1.599,0.533h-1.332
+              c-0.8,0-1.6-0.267-1.6-0.533l-7.194-20.784c0-0.266,0-0.266,0-0.531c0-0.267,0.533-0.533,1.865-0.533h0.8
+              c0.799,0,1.599,0.267,1.599,0.8l4.797,15.188l0.267,1.064l0,0l0.267-1.332l5.063-15.188c0.267-0.533,0.8-0.801,1.6-0.801h1.065
+              C246.212,412.951,246.745,413.218,246.745,413.484" fill="#0055A1">
+         </path>
+         <path d="M263.532,414.283v0.8c0,1.065-0.267,1.332-0.799,1.332h-8.527v5.596h7.729c0.532,0,0.8,0.533,0.8,1.332v0.8
+              c0,1.066-0.268,1.332-0.8,1.332h-7.729v6.129h8.527c0.532,0,0.799,0.533,0.799,1.332v0.801c0,1.064-0.267,1.332-0.799,1.332
+              h-11.726c-0.8,0-1.065-0.268-1.065-1.065v-19.985c0-0.799,0.267-1.064,1.065-1.064h11.726
+              C263.266,412.951,263.532,413.218,263.532,414.283" fill="#0055A1">
+         </path>
+         <path d="M279.254,414.816c0,0.8-0.8,2.397-1.599,2.397c-0.533,0-1.599-1.065-3.73-1.065
+              c-2.397,0-3.464,1.065-3.464,2.397c0,1.865,1.865,2.665,3.73,3.464c2.664,1.066,5.862,2.398,5.862,6.662
+              c0,4.796-3.466,6.661-7.195,6.661c-4.529,0-7.194-1.599-7.194-2.664c0-0.8,1.066-2.397,1.6-2.397c0.532,0,2.132,1.599,5.063,1.599
+              c1.865,0,3.464-0.8,3.464-2.931c0-2.133-2.397-2.933-4.797-3.997c-2.396-1.066-4.796-2.398-4.796-6.396
+              c0-4.264,3.464-6.396,7.461-6.396C276.589,412.685,279.254,413.751,279.254,414.816" fill="#0055A1">
+         </path>
+         <path d="M298.173,414.283v0.8c0,1.065-0.267,1.332-0.8,1.332h-5.596v18.12c0,0.532-0.532,0.799-1.599,0.799h-0.8
+              c-1.065,0-1.6-0.267-1.6-0.799v-18.12h-5.596c-0.532,0-0.8-0.533-0.8-1.332v-0.8c0-1.065,0.268-1.332,0.8-1.332h15.188
+              C297.906,412.951,298.173,413.218,298.173,414.283" fill="#0055A1">
+         </path>
+         <path d="M307.766,406.556c0,0.268-0.268,0.533-3.197,3.73c-0.267,0.267-0.8,0.8-2.132,0.8c-0.8,0-0.8,0-0.8-0.533
+              c0-0.267,0.532-1.064,1.864-3.729c0.268-0.533,1.332-0.799,2.398-0.799C306.967,406.289,307.766,406.289,307.766,406.556
+              M305.367,413.751v20.784c0,0.532-0.533,1.064-1.599,1.064h-0.8c-1.065,0-1.6-0.267-1.6-1.064v-20.784
+              c0-0.533,0.533-1.066,1.6-1.066h0.8C304.834,412.951,305.367,413.218,305.367,413.751" fill="#0055A1">
+         </path>
+         <path d="M326.685,414.816c0,0.8-1.066,2.665-1.865,2.665c-0.267,0-1.865-1.066-4.797-1.066
+              c-4.264,0-6.395,2.665-6.395,7.994s1.864,7.994,6.128,7.994c3.197,0,4.797-1.333,5.33-1.333c0.799,0,1.599,1.864,1.599,2.397
+              c0,1.6-3.997,2.665-6.929,2.665c-7.194,0-10.393-3.729-10.393-11.458c0-7.728,3.464-11.458,10.658-11.458
+              C322.954,412.685,326.685,413.751,326.685,414.816" fill="#0055A1">
+         </path>
+         <path d="M334.412,413.751v20.784c0,0.532-0.532,1.064-1.6,1.064h-0.799c-1.066,0-1.6-0.267-1.6-1.064v-20.784
+              c0-0.533,0.532-1.066,1.6-1.066h0.799C333.88,412.951,334.412,413.218,334.412,413.751" fill="#0055A1">
+         </path>
+         <path d="M353.065,414.283v0.8c0,1.065-0.267,1.332-0.8,1.332h-8.526v5.596h7.729c0.531,0,0.799,0.533,0.799,1.332
+              v0.8c0,1.066-0.268,1.332-0.799,1.332h-7.729v6.129h8.526c0.533,0,0.8,0.533,0.8,1.332v0.801c0,1.064-0.267,1.332-0.8,1.332H340.54
+              c-0.799,0-1.064-0.268-1.064-1.065v-19.985c0-0.799,0.267-1.064,1.064-1.064h11.726
+              C352.799,412.951,353.065,413.218,353.065,414.283" fill="#0055A1">
+         </path>
+         <path d="M141.492,449.989c0,0.8-0.267,1.333-0.533,1.864l-2.397,7.195h5.861l-2.396-7.195
+              C142.026,451.322,141.759,450.789,141.492,449.989L141.492,449.989z M143.891,445.727l7.193,20.784c0,0.268,0,0.268,0,0.532
+              c0,0.267-0.532,0.533-1.599,0.533h-1.066c-0.799,0-1.599-0.268-1.599-0.533l-1.599-4.529h-8.262l-1.064,4.529
+              c-0.268,0.533-0.8,0.533-1.332,0.533h-0.8c-1.065,0-1.865-0.268-1.865-0.533s0-0.266,0-0.532l7.193-20.784
+              c0.268-0.532,0.801-0.532,1.6-0.532h1.333C143.091,445.193,143.891,445.193,143.891,445.727" fill="#0055A1">
+         </path>
+         <path d="M166.007,445.992v20.785c0,0.531-0.532,1.064-1.599,1.064h-0.8c-1.065,0-1.6-0.267-1.6-1.064v-20.785
+              c0-0.532,0.533-1.065,1.6-1.065h0.8C165.474,445.193,166.007,445.46,166.007,445.992" fill="#0055A1">
+         </path>
+         <path d="M188.923,445.992v20.785c0,0.531-0.532,0.799-1.599,0.799h-1.066c-0.799,0-1.332,0-1.864-0.799
+              l-8.793-13.59l-0.801-1.334v14.656c0,0.532-0.531,0.799-1.599,0.799h-0.799c-1.066,0-1.6-0.267-1.6-0.799v-20.519
+              c0-0.532,0.532-0.799,1.6-0.799h1.064c0.801,0,1.332,0,1.865,0.799l8.526,13.058l0.8,1.6v-14.656c0-0.532,0.533-0.799,1.599-0.799
+              h0.801C188.656,445.193,188.923,445.46,188.923,445.992" fill="#0055A1">
+         </path>
+         <path d="M206.509,446.525v0.8c0,1.064-0.266,1.332-0.799,1.332h-7.461v5.596h7.194c0.533,0,0.8,0.533,0.8,1.332
+              v1.066c0,1.064-0.267,1.332-0.8,1.332h-7.194v8.794c0,0.531-0.533,0.799-1.599,0.799h-0.8c-1.065,0-1.6-0.268-1.6-0.799v-20.52
+              c0-0.799,0.268-1.064,1.065-1.064h10.659C206.243,445.193,206.509,445.46,206.509,446.525" fill="#0055A1">
+         </path>
+         <path d="M213.704,456.385c0,5.063,2.132,7.994,5.862,7.994c3.729,0,5.861-2.665,5.861-7.994
+              c0-5.063-2.132-7.994-5.861-7.994C215.57,448.391,213.704,451.322,213.704,456.385 M229.692,456.385
+              c0,7.461-3.73,11.458-10.125,11.458c-6.662,0-10.126-3.997-10.126-11.458s3.729-11.458,10.126-11.458
+              C225.961,444.927,229.692,448.924,229.692,456.385" fill="#0055A1">
+         </path>
+         <path d="M237.952,448.657v6.129h3.464c1.6,0,3.197-1.332,3.197-3.197c0-1.866-1.332-2.932-3.197-2.932H237.952z
+              M248.877,451.056c0,2.664-1.599,4.265-3.729,5.329l0,0c1.064,0.268,1.865,1.6,2.665,3.464l2.664,6.662
+              c0,0.268,0.267,0.532,0.267,0.532c0,0.267-0.533,0.533-1.865,0.533h-1.064c-0.8,0-1.601-0.268-1.601-0.533l-2.396-6.395
+              c-0.8-1.6-1.6-2.398-3.73-2.398h-1.864v8.261c0,0.532-0.533,0.799-1.6,0.799h-0.8c-1.065,0-1.599-0.267-1.599-0.799v-20.519
+              c0-0.799,0.267-1.065,1.064-1.065h5.862C246.212,445.193,248.877,447.059,248.877,451.056" fill="#0055A1">
+         </path>
+         <path d="M275.79,445.992v20.785c0,0.531-0.533,0.799-1.599,0.799h-0.8c-1.065,0-1.6-0.268-1.6-0.799v-14.656l0,0
+              l-5.329,9.326c-0.267,0.267-0.532,0.533-1.065,0.533h-1.065c-0.533,0-0.8-0.268-1.065-0.533l-5.329-9.326l0,0v14.922
+              c0,0.533-0.532,0.8-1.6,0.8h-0.799c-1.065,0-1.6-0.267-1.6-0.8v-21.051c0-0.532,0.533-0.799,1.6-0.799h1.6
+              c0.799,0,1.599,0.267,1.864,0.799l5.597,9.858l0.531,1.066l0.533-1.066l5.597-9.858c0.267-0.532,0.8-0.799,1.864-0.799h1.332
+              C275.257,445.193,275.79,445.46,275.79,445.992" fill="#0055A1">
+         </path>
+         <path d="M288.047,449.989c0,0.8-0.267,1.333-0.531,1.864l-2.398,7.195h5.862l-2.398-7.195
+              C288.314,451.322,288.047,450.789,288.047,449.989L288.047,449.989z M290.446,445.727l7.194,20.784c0,0.268,0,0.268,0,0.532
+              c0,0.267-0.532,0.533-1.6,0.533h-1.064c-0.8,0-1.601-0.268-1.601-0.533l-1.599-4.529h-8.26l-1.6,4.529
+              c-0.267,0.533-0.8,0.533-1.333,0.533h-0.799c-1.065,0-1.865-0.268-1.865-0.533s0-0.266,0-0.532l7.194-20.784
+              c0.267-0.532,0.799-0.532,1.599-0.532h1.332C289.646,445.193,290.179,445.193,290.446,445.727" fill="#0055A1">
+         </path>
+         <path d="M315.227,446.525v0.8c0,1.064-0.267,1.332-0.8,1.332h-5.597v18.12c0,0.531-0.532,0.799-1.599,0.799h-0.8
+              c-1.065,0-1.6-0.268-1.6-0.799v-18.12h-5.596c-0.532,0-0.799-0.533-0.799-1.332v-0.8c0-1.065,0.267-1.332,0.799-1.332h15.188
+              C314.961,445.193,315.227,445.46,315.227,446.525" fill="#0055A1">
+         </path>
+         <path d="M322.155,445.992v20.785c0,0.531-0.533,1.064-1.599,1.064h-0.8c-1.065,0-1.6-0.267-1.6-1.064v-20.785
+              c0-0.532,0.533-1.065,1.6-1.065h0.8C321.621,445.193,322.155,445.46,322.155,445.992" fill="#0055A1">
+         </path>
+         <path d="M343.205,447.592v0.267l-11.725,16.255h10.925c0.533,0,0.8,0.533,0.8,1.332v0.8
+              c0,1.064-0.267,1.332-0.8,1.332h-15.721c-0.533,0-1.066-1.6-1.066-2.398v-0.267l11.726-16.254h-9.859
+              c-0.532,0-0.799-0.533-0.799-1.332v-0.8c0-1.065,0.267-1.332,0.799-1.332h14.655C342.673,445.193,343.205,446.792,343.205,447.592" fill="#0055A1">
+         </path>
+         <path d="M358.927,438.798c0,0.268-0.268,0.533-3.198,3.73c-0.267,0.267-0.799,0.8-2.132,0.8
+              c-0.799,0-0.799,0-0.799-0.533c0-0.267,0.532-1.064,2.132-3.729c0.267-0.533,1.332-0.8,2.396-0.8
+              C358.128,438.531,358.927,438.531,358.927,438.798 M354.397,449.989c0,0.8-0.267,1.333-0.533,1.864l-2.396,7.195h5.86l-2.396-7.195
+              C354.663,451.322,354.663,450.789,354.397,449.989L354.397,449.989z M356.796,445.727l7.193,20.784c0,0.268,0,0.268,0,0.532
+              c0,0.267-0.533,0.533-1.599,0.533h-1.066c-0.799,0-1.599-0.268-1.599-0.533l-1.599-4.529h-8.262l-1.599,4.529
+              c-0.268,0.533-0.799,0.533-1.332,0.533h-0.533c-1.064,0-1.865-0.268-1.865-0.533s0-0.266,0-0.532l7.194-20.784
+              c0.267-0.532,0.8-0.532,1.6-0.532h1.332C355.995,445.193,356.529,445.193,356.796,445.727" fill="#0055A1">
+         </path>
+         <path d="M383.176,447.059c0,0.8-1.066,2.664-1.865,2.664c-0.267,0-1.865-1.064-4.797-1.064
+              c-4.263,0-6.396,2.665-6.396,7.994c0,5.328,1.865,7.993,6.128,7.993c3.198,0,4.798-1.333,5.33-1.333c0.8,0,1.6,1.865,1.6,2.398
+              c0,1.599-3.997,2.665-6.93,2.665c-7.193,0-10.392-3.73-10.392-11.458s3.464-11.458,10.658-11.458
+              C379.445,444.927,383.176,445.992,383.176,447.059" fill="#0055A1">
+         </path>
+         <path d="M390.903,445.992v20.785c0,0.531-0.533,1.064-1.6,1.064h-0.799c-1.066,0-1.6-0.267-1.6-1.064v-20.785
+              c0-0.532,0.532-1.065,1.6-1.065h0.799C390.369,445.193,390.903,445.46,390.903,445.992" fill="#0055A1">
+         </path>
+         <path d="M414.085,445.992v14.39c0,4.796-3.465,7.729-9.061,7.729c-5.862,0-9.06-2.933-9.06-7.729v-14.39
+              c0-0.532,0.532-0.799,1.599-0.799h0.8c1.065,0,1.6,0.267,1.6,0.799v14.123c0,2.397,2.132,4.264,5.063,4.264
+              c2.932,0,5.063-1.865,5.063-4.264v-14.123c0-0.532,0.531-0.799,1.599-0.799h0.799C413.552,445.193,414.085,445.46,414.085,445.992" fill="#0055A1">
+         </path>
+        </g>
+       </svg>
+      </a>
+     </div>
+     <div class="idsk-footer__meta-item idsk-footer__meta-item--grow">
+      <span class="idsk-footer__licence-description">
+       <div class="textwidget">
+        Prevádzkovateľom služby je Úrad podpredsedu vlády SR pre investície a informatizáciu.
+        <br/>
+        Vytvorené v súlade s
+        <a class="idsk-footer__link" href="https://idsk.gov.sk/" rel="noopener noreferrer" target="_blank">
+         Jednotným dizajn manuálom elektronických služieb.
+        </a>
+        <br/>
+        <a class="idsk-footer__link" href="/vyhlasenie-o-pristupnosti/">
+         Vyhlásenie o prístupnosti
+        </a>
+       </div>
+      </span>
+      <h2 class="govuk-visually-hidden">
+       Dôležité odkazy
+      </h2>
+      <div class="textwidget">
+       <ul class="idsk-footer__inline-list">
+        <li class="idsk-footer__inline-list-item">
+         <a class="idsk-footer__link" href="https://korona.gov.sk/" title="Koronavírus a Slovensko - Domov">
+          Hlavná stránka korona.gov.sk
+         </a>
+        </li>
+        <li class="idsk-footer__inline-list-item">
+         Call centrum:
+         <a class="idsk-footer__link" href="tel:00421800221234">
+          0800221234
+         </a>
+        </li>
+        <li class="idsk-footer__inline-list-item">
+         <a class="idsk-footer__link" href="/co-je-covid-19/">
+          Čo je COVID-19
+         </a>
+        </li>
+        <li class="idsk-footer__inline-list-item">
+         <a class="idsk-footer__link" href="/faq/">
+          FAQ
+         </a>
+        </li>
+        <li class="idsk-footer__inline-list-item">
+         <a class="idsk-footer__link" href="/ludia/">
+          Ľudia
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+   </div>
+  </footer>
+  <script src="https://korona.gov.sk/wp-content/themes/korona/assets/js/index.js" type="text/javascript">
+  </script>
+  <script src="https://korona.gov.sk/wp-content/themes/korona/assets/js/autocomplete.js" type="text/javascript">
+  </script>
+  <script src="https://korona.gov.sk/wp-content/themes/korona/assets/js/upsvr-emails.js" type="text/javascript">
+  </script>
+  <script src="https://korona.gov.sk/wp-content/themes/korona/assets/js/lang-picker.js" type="text/javascript">
+  </script>
+  <script src="https://korona.gov.sk/wp-content/themes/korona/assets/js/slovakia_esri_epsg_4326.js" type="text/javascript">
+  </script>
+  <script src="https://korona.gov.sk/wp-content/themes/korona/assets/js/d3.js" type="text/javascript">
+  </script>
+  <script src="https://korona.gov.sk/wp-content/themes/korona/assets/js/leaflet.js" type="text/javascript">
+  </script>
+  <script src="https://korona.gov.sk/wp-content/themes/korona/assets/js/boundarycanvas.js" type="text/javascript">
+  </script>
+  <script src="https://korona.gov.sk/wp-content/themes/korona/assets/js/driveinmap.js" type="text/javascript">
+  </script>
+  <style>
+   div>div#botmedia-chat-note,
+    div#botmedia-chat-widget>div+div:not(#botmedia-chat-content),
+    div[id^="bot"]>div+div:not(:last-child){
+        display:none !important;
+    }
+    div#botmedia-chat-button,
+    div#botmedia-chat-button img{
+        height: 70px;
+        width: 70px;
+    }
+    @media (max-width: 576px) {
+        div>div#botmedia-chat-widget {
+            display:none !important;
+        }
+    }
+  </style>
+  <script>
+   window.bChat = {
+        "showChatNote": false,
+        'image': 'https://cdn.covid.chat/logo.png',
+        'text': 'Dôležité informácie o koronavíruse (COVID-19)',
+        "autoOpen": false,
+        "noAutoInit": false,
+        "noHistory": true,
+        "exitButton": true,
+        "skipWelcome": true,
+        "force": true,
+        "ref": "welcome"
+    };
+    (function(d, s, id) {
+        var js, bjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s);
+        js.async = true; js.id = id;
+        js.src = "https://cdn.covid.chat/chat.js";
+        bjs.parentNode.insertBefore(js, bjs);
+    }(document, 'script', 'bmedia'));
+  </script>
+  <script>
+   window.GOVUKFrontend.initAll()
+  </script>
+ </body>
+</html>
