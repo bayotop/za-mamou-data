@@ -9,11 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: fetch-links
+    - name: Set up Python 3.7
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.7'
+    - name: Check links
       run: |
-        pip install -r requirements.txt
-        python check.py
-    - name: commit-links
+        pip3 install -r requirements.txt
+        python3 check.py
+    - name: Commit links
       run: |
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
