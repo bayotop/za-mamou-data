@@ -8,9 +8,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
-      with:
-        token: ${{ secrets.GITHUB_PERSONAL_TOKEN }}
+    - uses: actions/checkout@v2
     - name: fetch-links
       run: |
         pip install -r requirements.txt
@@ -21,4 +19,4 @@ jobs:
         git config --local user.name "GitHub Action"
         git add *
         git commit -am "Update data"
-        git push "https://bayotop:${{ secrets.GITHUB_PERSONAL_TOKEN }}@github.com/bayotop/za-mamou-data.git" HEAD:master --follow-tags
+        git push "https://bayotop:${{ secrets.PAT }}@github.com/bayotop/za-mamou-data.git" HEAD:master --follow-tags
