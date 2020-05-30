@@ -13,6 +13,7 @@ jobs:
         token: ${{ secrets.GITHUB_PERSONAL_TOKEN }}
     - name: fetch-links
       run: |
+        pip install -r requirements.txt
         python check.py
     - name: commit-links
       run: |
