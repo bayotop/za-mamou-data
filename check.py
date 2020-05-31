@@ -1,3 +1,4 @@
+from datetime import datetime
 import re
 
 from bs4 import BeautifulSoup
@@ -38,6 +39,11 @@ def normalise(content):
     html = BeautifulSoup(content, features="html.parser").prettify()
     html = re.sub(r'Liferay\.authToken="[^"]+";', "", html)
     html = re.sub(r"t=[0-9]{13}", "", html)
+
+    matches = re.findall(r"(?:Dátum vytvorenia:|Dátum poslednej aktualizácie:) (\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\.\d{3})", html)
+    for timestamp in matches:
+        date = datetime.strptime(timestamp, '%Y-%m-%d %H:%M:%S.%f').strftime('%a %b %d %H:%M:%S CET %Y')
+        html = html.replace(timestamp, date)
 
     return html
 
