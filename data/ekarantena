@@ -181,21 +181,17 @@ ol ul {
     </div>
    </div>
   </header>
-  <div class="app-pane-yellow govuk-!-padding-top-3">
+  <div class="app-pane-lgray govuk-!-padding-top-3">
    <div class="govuk-width-container">
     <div class="govuk-grid-row">
      <div class="govuk-grid-column-full">
       <p class="govuk-body">
-       Smart karanténa spustená pre
+       Pricestovanie z ČR a Maďarska na 48 hodín je možné aj keď tam nemáte trvalý či prechodný pobyt. Na hranici je potrebné preukázať sa
        <strong>
-        Android
+        najmenej 2 hodnovernými dokumentmi
        </strong>
-       aj pre
-       <strong>
-        iOS
-       </strong>
-       !
-       <a class="govuk-link" href="https://korona.gov.sk/ekarantena/" target="_self" title="Smart karanténa – domáca izolácia ako alternatíva štátnej karantény">
+       ako napr. pracovnou alebo nájomnou zmluvou.
+       <a class="govuk-link" href="http://PLACEHOLDER.wpsho/karantenne-opatrenia/#pricestovanie-na-48-hodin" target="_self" title="Viac informácií. ">
         Viac informácií.
        </a>
       </p>
