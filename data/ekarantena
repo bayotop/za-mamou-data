@@ -172,6 +172,9 @@ ol ul {
         <option data-url="https://korona.gov.sk/rom/smart-karantena-kherutni-izolacija-sar-alternativa-le-themutni-karantenake/" lang="rom" value="Romano">
          Romano
         </option>
+        <option data-url="https://korona.gov.sk/rue/smart-karantena-domashnja-izolacija-jak-alternativa-k-shtatnij-karanteni/" lang="rue" value="Pусиньскы">
+         Pусиньскы
+        </option>
        </select>
       </form>
      </div>
