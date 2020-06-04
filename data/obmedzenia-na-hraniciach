@@ -2314,7 +2314,9 @@
                  </td>
                  <td>
                   <div>
-                   17. mája 2020 o 24:00 hod. bol na území ČR ukončený núdzový stav, ktorý bol vyhlásený od 12. marca 2020 (14.00h). Naďalej platia mimoriadne opatrenia vyhlásené v súvislosti s epidémiou COVID-19
+                   <p>
+                    17. mája 2020 o 24:00 hod. bol na území ČR ukončený núdzový stav, ktorý bol vyhlásený od 12. marca 2020 (14.00h). Naďalej platia mimoriadne opatrenia vyhlásené v súvislosti s epidémiou COVID-19
+                   </p>
                    <div>
                    </div>
                    <ul>
@@ -2329,8 +2331,6 @@
                    <h4>
                     Podmienky vstupu do Českej republiky
                    </h4>
-                   <div>
-                   </div>
                    <div>
                     S účinnosťou od 27. mája 2020 od 00:00 hod. naďalej platí zákaz vstupu na územie ČR pre všetkých cudzincov, ktorí nemali ku dňu 12.3.2020 na území ČR prechodný pobyt nad 90 dní alebo trvalý pobyt; to neplatí pre:
                    </div>
@@ -2490,76 +2490,20 @@
                    </p>
                    <ul>
                     <li>
-                     <strong>
-                      občanov ČR, EÚ s prechodným alebo trvalým pobytom v ČR a cudzincov s priznaným postavením dlhodobého rezidenta v ČR, ktorí sa vrátili z pobytu v SR alebo Maďarsku cez pozemnú  hranicu medzi  ČR a SR
-                     </strong>
-                     a ich pobyt mimo územia ČR
-                     <strong>
-                      nebol dlhší ako 48 hodín
-                     </strong>
-                     ;
-                     <br/>
-                     <br/>
-                     Z hľadiska zdravotného sa nič nepredkladá. Osoba nesmie stráviť mimo územia Českej republiky viac ako 48 hod.
-                     <br/>
-                     <br/>
-                     <strong>
-                      Občan ČR hraničnej kontrole predkladá platný doklad totožnosti, občan EÚ predkladá potvrdenie o prechodnom pobyte, povolenie na trvalý pobyt alebo iný doklad preukazujúci doterajší pobyt v ČR*
-                     </strong>
-                     , občan tretej krajiny predkladá povolenie na pobyt s vyznačeným statusom rezidenta ČR. 48 hodinový režim sa netýka wellness pobytov za účelom turistiky (len z dôvodu liečebno-rehabilitačnej starostlivosti do kúpeľov ako zdravotníckych zariadení).
-                     <br/>
-                     <br/>
-                     <em>
-                      *
-                      <strong>
-                       Za potvrdenie o doterajšom pobyte v ČR česká strana
-                      </strong>
-                      <strong>
-                       považuje
-                      </strong>
-                      <strong>
-                       kúpnu alebo nájomnú zmluvu k nehnuteľnosti (alebo ubytovanie na internáte) PLUS aspoň jeden z týchto platných dokumentov: preukaz zdravotného poistenca poisťovne v ČR, potvrdenie o štúdiu v ČR s aktuálnou platnosťou, aktuálne potvrdenie zamestnávateľa, že pracovný vzťah na území ČR trvá dlhšie ako 90 dní, aktuálny výpis zo živnostenského, obchodného alebo podobného registra.
-                      </strong>
-                     </em>
+                     <div>
+                      pre občanov EÚ s vydaným potvrdením o prechodnom pobyte alebo s trvalým pobytom v Maďarsku a cudzincov s priznaným postavením dlhodobo pobývajúceho rezidenta Maďarska, ktorí prekročia štátnu hranicu medzi ČR a SR, pokiaľ dĺžka ich pobytu na území ČR nebude dlhšia než 48 hodín
+                     </div>
                     </li>
                    </ul>
-                   <div style="text-align: justify;">
+                   <div>
                    </div>
                    <ul>
-                    <li style="text-align: justify;">
-                     <strong>
-                      občanov ČR, ktorí preukážu že majú bydlisko v SR alebo v Maďarsku
-                     </strong>
-                     a vstúpili do Českej republiky zo Slovenska alebo Maďarska cez štátnu hranicu medzi ČR a SR
-                     <strong>
-                      a ich pobyt na území Českej republiky nebude dlhší ako 48 hodín
-                     </strong>
-                     .
-                    </li>
-                   </ul>
-                   <div style="text-align: justify;">
-                   </div>
-                   <ul>
-                    <li style="text-align: justify;">
-                     <strong>
-                      pre občanov SR a Maďarska, pre občanov EÚ
-                     </strong>
-                     s vydaným potvrdením o
-                     <strong>
-                      prechodnom pobyte alebo trvalom pobyte v Slovenskej republike alebo Maďarska
-                     </strong>
-                     a cudzincov s priznaným postavením dlhodobého rezidenta v SR alebo Maďarsku, ktorí prekročia hranicu Českej republiky a Slovenskej republiky, ak ich pobyt v ČR neprekročí 48 hodín.
-                     <br/>
-                     <br/>
-                     Zo zdravotného hľadiska sa nič nepredkladá. Osoby musia opustiť Českú republiku do 48 hodín od vstupu. Občan Českej republiky, Slovenskej republiky alebo Maďarska predkladá hraničnej kontrole
-                     <strong>
-                      platný doklad totožnosti.
-                     </strong>
-                     Občan EÚ predkladá potvrdenie o prechodnom pobyte alebo povolenie na trvalý pobyt v SR alebo Maďarsku. Občan tretej krajiny predkladá povolenie k pobytu v EÚ s vyznačeným statusom rezidenta SR alebo Maďarska PLUS vyplnený
-                     <strong>
-                      vzor formulára k vycestovaniu zo SR
-                     </strong>
-                     (a to aj v prípade cesty z Maďarska).
+                    <li>
+                     <div>
+                      <strong>
+                       pre občanov EÚ s vydaným potvrdením o prechodnom pobyte alebo s trvalým pobytom v SR a cudzincov s priznaným postavením dlhodobo pobývajúceho rezidenta SR, ktorí prekročia štátnu hranicu medzi ČR a SR
+                      </strong>
+                     </div>
                     </li>
                    </ul>
                    <p style="text-align: justify;">
@@ -2571,63 +2515,33 @@
                    </p>
                    <div>
                    </div>
-                   <div>
-                   </div>
-                   <div>
-                    Podmienky pre vstup na územie ČR a karanténne opatrenia sú od 26. mája 2020 upravené
-                    <a href="https://koronavirus.mzcr.cz/ochranne-opatreni-omezeni-prekroceni-statni-hranice-cr-od-26-5-2020/">
-                     Ochranným opatrením Ministerstva zdravotníctva ČR č. MZDR 20599/2020-3/MIN/KAN z 25.5.2020
-                    </a>
-                   </div>
-                   <div>
-                   </div>
-                   <div>
-                   </div>
+                   <h4>
+                    Režim na česko-slovenskej hranici
+                   </h4>
                    <div style="text-align: justify;">
-                    Novým Ochranným opatrením Ministerstva zdravotníctva ČR sa upravujú podmienky pre vstup do Českej republiky. Pokiaľ sa vstup do ČR
+                    Ministerstvo zdravotníctva ČR vydalo 3. júna 2020 nové ochranné opatrenie, ktoré
                     <strong>
-                     uskutoční cez pozemné hranice ČR a SR,  budú po novom môcť na dobu 48 hodín bez povinnosti predloženia negatívneho testu alebo karantény vstúpiť občania SR a Maďarska a občania EÚ, ktorí majú v SR alebo v Maďarsku prechodný alebo trvalý pobyt, alebo cudzinci s priznaným postavením dlhodobo pobývajúceho rezidenta v SR alebo v Maďarsku.
+                     umožňuje občanom SR, občanom EÚ s vydaným potvrdením o prechodnom alebo trvalom pobyte v SR
                     </strong>
-                   </div>
-                   <div>
-                   </div>
-                   <div style="text-align: justify;">
+                    a cudzincom s priznaným postavením dlhodobo pobývajúceho rezidenta v SR
                     <strong>
-                     Recipročne sú od povinnosti testu alebo karantény pri návrate späť do 48 hodín cez pozemnú hranicu ČR a SR oslobodení aj občania ČR alebo občania EÚ, ktorí majú v ČR prechodný alebo trvalý pobyt, alebo cudzinci s priznaným postavení dlhodobo pobývajúceho rezidenta ČR.
+                     vstup do ČR bez povinnosti testu alebo karantény, uvedenia účelu cesty alebo časového obmedzenia
                     </strong>
+                    .
                    </div>
                    <div>
-                   </div>
-                   <div>
-                    <strong>
-                     Dodržanie dĺžky pobytu bude kontrolované slovenskou stranou.
-                    </strong>
-                    Na hraničnom prechode bude k tomuto účelu nutné predložiť vyplnené tlačivo:
-                   </div>
-                   <div>
-                    <br/>
-                   </div>
-                   <ul>
-                    <li>
-                     <img alt="docx" border="0" src="/html/themes/control_panel/images/file_system/small/docx.png"/>
-                     <a class="document-link" href="/documents/10182/4164512/200527-tlacivo-prekrocenie-48-hodin.docx/b4354627-7d1d-475f-b628-7ab73849427a">
-                      Tlačivo o prekročení štátnej hranice
-                     </a>
-                    </li>
-                   </ul>
-                   <p>
-                   </p>
-                   <ul>
-                    <li>
-                     <a href="http://www.minv.sk/?tlacove-spravy&amp;sprava=pri-jedno-ci-dvojdnovom-opusteni-slovenska-vam-policia-na-hraniciach-potvrdi-cas-odchodu-majte-pripraveny-formular">
-                      Informácie o cestovaní s návratom do 48 hodín na webovej stránke Ministerstva vnútra SR
-                     </a>
-                    </li>
-                   </ul>
-                   <div>
+                    <p style="text-align: justify;">
+                    </p>
+                    <p style="text-align: justify;">
+                     Rovnako tak bez obmedzenia sa môžu vrátiť z pobytu v Slovenskej republike českí občania, občania EÚ s prechodným alebo trvalým pobytom na území ČR alebo cudzinci s priznaným postavením dlhodobo pobývajúceho rezidenta ČR. Uvoľnenie obmedzenia cestovania je platné len pre štátnu hranicu medzi Českou republikou a Slovenskou republikou. SR umožňuje prekračovať túto hranicu len na stanovených hraničných prechodoch.
+                    </p>
+                    <p>
+                    </p>
                    </div>
                    <div>
                     <p>
+                    </p>
+                    <p style="text-align: justify;">
                      Naďalej platí, že osoby vstupujúce na územie ČR, okrem vymedzených výnimiek majú povinnosť buď predložiť potvrdenie o absolvovaní TR-PCR testu alebo nahlásiť svoj vstup krajskej hygienickej stanici, ktorá rozhodne o nevyhnutných karanténnych opatreniach. Karanténa však nebude nariadená, pokiaľ daná osoba potvrdenie o absolvovaní testu predloží krajskej hygienickej stanice do 72 hodín od vstupu do ČR.
                     </p>
                    </div>
@@ -2670,7 +2584,10 @@
                    </div>
                    <div>
                    </div>
-                   <div>
+                   <h4>
+                    Tranzit cez územie Českej republiky
+                   </h4>
+                   <div style="text-align: justify;">
                     V súlade s platnými podmienkami pre vstup a tranzit občanov členských krajín EÚ na a cez územie ČR sa musí občan SR pri prekročení štátnej hranice ČR pozemnou cestou alebo po prílete na letisko V. Havla v Prahe naďalej preukázať nótou Veľvyslanectva SR v Prahe, o vystavenie ktorej požiada miestne príslušný zastupiteľský úrad SR v krajine svojho dočasného pobytu.
                    </div>
                    <div>
@@ -2695,7 +2612,7 @@
                    <div>
                    </div>
                    <div>
-                    Občan SR po prílete do Prahy alebo pri prekročení pozemných hraníc ČR komerčným autobusovým spojením smerujúcim do Prahy nesmie použiť na transfer z letiska V. Havla v Prahe alebo autobusovej stanice v Prahe na Slovensko vnútroštátnu autobusovú alebo vlakovú dopravu, ani zdieľanú taxislužbu ČR, je však možné vyzdvihnutie či odvoz rodinného príslušníka z letiska individuálnou dopravou motorovým vozidlom, čo je v súlade s platnými podmienkami vstupu do ČR a rovnako s platným Opatrením Úradu verejného zdravotníctva SR, podľa ktorého je možné vycestovanie zo SR do 24 hodín bez testu a karantény.
+                    Občan SR po prílete do Prahy alebo pri prekročení pozemných hraníc ČR komerčným autobusovým spojením smerujúcim do Prahy nesmie použiť na transfer z letiska V. Havla v Prahe alebo autobusovej stanice v Prahe na Slovensko vnútroštátnu autobusovú alebo vlakovú dopravu, ani zdieľanú taxislužbu ČR, je však možné vyzdvihnutie či odvoz rodinného príslušníka z letiska individuálnou dopravou motorovým vozidlom,  čo je v súlade s platnými podmienkami vstupu do ČR a rovnako s Opatrením ÚVZ SR,  podľa ktorého je možné vycestovanie zo SR do ČR a späť bez  povinnosti testu alebo karantény, uvedenia účelu cesty alebo časového obmedzenia.
                    </div>
                    <div>
                    </div>
@@ -2723,6 +2640,70 @@
                     </strong>
                     (nos, ústa) ako je respirátor, rúška, šatka, šál alebo iné na všetkých vnútorných priestoroch stavieb, mimo bydliska, v prostriedkoch verejnej dopravy,  na všetkých miestach kde sa nachádzajú aspoň dve osoby v bližšej vzdialenosti než 2 metre, pokiaľ sa nejedná o členov domácnosti.
                    </div>
+                   <div style="text-align: justify;">
+                   </div>
+                   <div style="text-align: justify;">
+                   </div>
+                   <h4 style="text-align: justify;">
+                    Zmena pravidiel cestovania od
+                    <span style="text-align: justify;">
+                     15. júna 2020
+                    </span>
+                   </h4>
+                   <div style="text-align: justify;">
+                    Vláda Českej republiky rozhodla 1. júna o zmene pravidiel cestovania do ČR, ktoré budú účinné od 15. júna 2020.
+                   </div>
+                   <div style="text-align: justify;">
+                    <div>
+                    </div>
+                    <div>
+                     Občania EÚ/Schengenského priestoru (a občania ostatných štátov s priznaným postavením dlhodobo pobývajúceho rezidenta v EÚ/Schengenskom priestore) stanovené nasledujúce pravidlá:
+                    </div>
+                    <div>
+                    </div>
+                    <ul>
+                     <li>
+                      krajiny v zelenej zóne - bude možnosť pricestovať do ČR bez negatívneho PCR testu alebo následnej karantény a bez nutnosti preukazovať účel cesty.
+                     </li>
+                     <li>
+                      krajiny v oranžovej  a červenej zóne - ako doteraz možnosť pricestovať len s negatívnym PCR testom max. 4 dni starým a nutnosť spadať do jednej z výnimiek zo zákazu vstupu cudzincov. Turistika medzi tieto výnimky naďalej nepatrí.
+                     </li>
+                    </ul>
+                    <div>
+                    </div>
+                    <div>
+                     Pokiaľ ide o tranzit cez ČR, rušia sa všetky obmedzenia pre krajiny v zelenej zóne. Pre ostatné krajiny naďalej zostávajú v platnosti doterajšie pravidlá.
+                    </div>
+                    <div>
+                    </div>
+                    <div>
+                    </div>
+                    <ul>
+                     <li>
+                      <a href="https://koronavirus.mzcr.cz/">
+                       Aktualizované rozdelenie krajín do jednotlivých zón webovej stránke Ministestva zdravotníctva ČR
+                      </a>
+                     </li>
+                    </ul>
+                    <div>
+                    </div>
+                    <div>
+                    </div>
+                    <div>
+                     Naďalej nie je možné pricestovať do ČR z krajín mimo EÚ/Schengenského priestoru. Ďalší postup bude stanovený na základe koordinovaného rozhodnutia EÚ. Doterajšie výnimky zostávajú v platnosti.
+                    </div>
+                    <div>
+                    </div>
+                    <ul>
+                     <li>
+                      <a href="http://Informacie vrátane výnimiek z uvedených pravidiel na webovej stránke Ministerstva vnútra ČR">
+                       Informacie vrátane výnimiek z uvedených pravidiel na webovej stránke Ministerstva vnútra ČR
+                      </a>
+                     </li>
+                    </ul>
+                    <div>
+                    </div>
+                   </div>
                   </div>
                   <div>
                   </div>
@@ -2730,7 +2711,7 @@
                 </tr>
                 <tr>
                  <td>
-                  Aktualizované: 29/05/2020
+                  Aktualizované: 04/06/2020
                  </td>
                 </tr>
                 <tr>
