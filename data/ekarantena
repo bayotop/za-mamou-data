@@ -188,18 +188,26 @@ ol ul {
       <p class="govuk-body">
        Ak máte
        <strong>
-        trvalý alebo prechodný pobyt alebo sa zdržiavate
+        trvalý alebo prechodný pobyt
        </strong>
-       v ČR alebo na Slovensku môžete
+       alebo sa
        <strong>
-        od 4. júna 0:00 hod. cestovať medzi Českom a Slovenskom
+        zdržiavate v ČR, Maďarsku, Rakúsku
        </strong>
-       znova
+       alebo
        <strong>
-        bez odmedzení
+        na Slovensku
+       </strong>
+       , môžete
+       <strong>
+        od 5. júna 8:00 hod.
+       </strong>
+       cestovať medzi týmito krajinami
+       <strong>
+        bez obmedzení
        </strong>
        .
-       <a class="govuk-link" href="https://korona.gov.sk/karantenne-opatrenia/#ceska-republika" target="_self" title="Viac informácií. ">
+       <a class="govuk-link" href="https://korona.gov.sk/karantenne-opatrenia/" target="_self" title="Karanténne opatrenia a cestovanie">
         Viac informácií.
        </a>
       </p>
